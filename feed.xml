@@ -1,0 +1,1399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 本文件由 tools/build-rss.js（或 tools/build_rss.py）自动生成，请勿手工编辑；新增文章后请重新执行：node tools/build-rss.js -->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><![CDATA[156博客]]></title>
+    <link>https://156blog.pages.dev/</link>
+    <description><![CDATA[156博客 —— 分享编程学习、软件测评、实用工具与新手教程的个人博客]]></description>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 09 Oct 2026 12:00:00 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <atom:link href="https://156blog.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[友链添加站长须知]]></title>
+      <link>https://156blog.pages.dev/articles/13/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/13/index.html</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[156博客友链添加规则与站长须知，包含友链定义、添加方法、要求、长期观察及常见问题。]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <section class="article-section">
+                    <!-- 一、友链是什么？ -->
+                    <h2 class="section-title">ℹ️ 友链是什么？</h2>
+                    <p class="article-text">
+                        <strong>友情链接</strong>，或称<strong>交换连结</strong>，就是指两个或者以上的<a href="https://zh.wikipedia.org/wiki/%E7%BD%91%E7%AB%99" target="_blank" rel="noopener">网站</a>互相放上对方的链接<sup><a href="#cite_note-Munck-1" id="cite_ref-Munck-1">[1]</a></sup><sup><a href="#cite_note-RLM-2" id="cite_ref-RLM-2">[2]</a></sup>，达到向用户推荐以互相共享用户群的一种<a href="https://zh.wikipedia.org/wiki/%E6%90%9C%E5%B0%8B%E5%BC%95%E6%93%8E%E6%9C%80%E4%BD%B3%E5%8C%96" target="_blank" rel="noopener">搜索引擎最佳化</a>方式。连结的方法通常是在网站上放上对方网站的<a href="https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%97" target="_blank" rel="noopener">文字</a>连结或<a href="https://zh.wikipedia.org/wiki/%E5%9C%96%E7%89%87" target="_blank" rel="noopener">图片</a>（一般是对方的<a href="https://zh.wikipedia.org/wiki/%E6%A8%99%E8%AD%98" target="_blank" rel="noopener">Logo</a>）连结。<strong>友情链接</strong>在非营利网站上更为常见，例如个人网站，明星偶像网站，或<a href="https://zh.wikipedia.org/wiki/%E8%A8%8E%E8%AB%96%E5%8D%80" target="_blank" rel="noopener">聊天讨论区</a>。
+                    </p>
+                    <p class="article-text" style="font-style: italic; color: var(--text-secondary);">
+                        （来源：<a href="https://zh.wikipedia.org/wiki/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5" target="_blank" rel="noopener">维基百科 - 友情链接</a>）
+                    </p>
+                    <!-- 二、如何添加友链？ -->
+                    <h2 class="section-title">🔗 如何添加友链？</h2>
+                    <ol class="article-list" style="list-style-type: decimal; padding-left: 1.5rem;">
+                        <li class="article-text">前往<a href="https://156blog.pages.dev/link.html?type=friends" target="_blank" rel="noopener">友链页面</a>。</li>
+                        <li class="article-text">点击添加友链卡片。</li>
+                        <li class="article-text">点击“点击添加”按钮。</li>
+                        <li class="article-text">按要求填写。</li>
+                    </ol>
+                    <!-- 三、添加友链要求 -->
+                    <h2 class="section-title"> 添加友链要求</h2>
+                    <ol class="article-list" style="list-style-type: decimal; padding-left: 1.5rem;">
+                        <li class="article-text">您的网站必须有多于10篇文章的体量。</li>
+                        <li class="article-text">您的网站运营时间必须大于3个月。</li>
+                        <li class="article-text">您的网站文章质量的干货占比一定是80%（根据文章数判断）。</li>
+                        <li class="article-text">如果您的网站是聚合站，那么在显眼位置必须有直通博客按钮，避免审核不通过。</li>
+                        <li class="article-text">您的网站必须是博客，如果不是，必须符合三.4要求，否则审核不通过。</li>
+                        <li class="article-text">如果是您提出的申请，您必须先将我的网站加入您的网站的友链，然后再根据<a href="#toc-2">要求</a>提交申请。</li>
+                    </ol>
+                    <!-- 四、长期观察 -->
+                    <h2 class="section-title"> 长期观察</h2>
+                    <p class="article-text">
+                        您的网站不仅会审核一次，您的网站我们会<strong>不定期访问</strong>进行验证。您的网站会在什么情况下被我们通知下线？请查看下方：
+                    </p>
+                    <ol class="article-list" style="list-style-type: decimal; padding-left: 1.5rem;">
+                        <li class="article-text">被恶意网站攻击，我们在发现后会在第一时间通知您并提示您立刻解决，否则将会在周日删除您的友链，再您处理后可再次提交申请！</li>
+                        <li class="article-text">自己添加色情、暴力等违规违法内容，我们会在周日第一时间删除您的友链并拉黑您的网站！</li>
+                        <li class="article-text">不符合<a href="#toc-3">三</a>的要求，那么我们会通知您并暂时移除，您依旧可以在符合要求后再次提交申请！</li>
+                    </ol>
+                    <!-- 五、FAQ -->
+                    <h2 class="section-title"> FAQ</h2>
+                    <div class="faq-item" style="margin-bottom: 1rem;">
+                        <p class="article-text"><strong>Q1：多久审核一次？</strong></p>
+                        <p class="article-text">A1：每周日一次审核新网站，我们会在审核后发送邮件！已添加友链的站点我们会不定期审核！</p>
+                    </div>
+                    <div class="faq-item" style="margin-bottom: 1rem;">
+                        <p class="article-text"><strong>Q2：被拒了还能再申请吗？</strong></p>
+                        <p class="article-text">A2：见<a href="#toc-4">四</a>。</p>
+                    </div>
+                    <div class="faq-item" style="margin-bottom: 1rem;">
+                        <p class="article-text"><strong>Q3：直通按钮怎么放？</strong></p>
+                        <p class="article-text">A3：只要显眼，有用，且直通的博客链接是属于您的且符合<a href="#toc-3">三</a>的要求即可。</p>
+                    </div>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/13/index.html">https://156blog.pages.dev/articles/13/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[公告]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[从 Node.js 到部署：Cloudflare Workers 小白入门教程（2026 版）]]></title>
+      <link>https://156blog.pages.dev/articles/11/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/11/index.html</guid>
+      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[从安装 Node.js 开始，带你一步步在本地跑通第一个 Cloudflare Worker，并部署到全球网络。]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <section class="article-section">
+                    <div class="highlight-box">
+                        <p> 想体验“代码写完即上线，全球用户低延迟访问”的轻量开发方式？Cloudflare Workers 是当前最值得上手的选项。</p>
+                    </div>
+                    <p class="article-text">
+                        本文从安装 Node.js 开始，带你一步步在本地跑通第一个 Worker，并部署到全球网络。
+                    </p>
+                    <h2 class="section-title">
+                        一、装对 Node.js 版本
+                    </h2>
+                    <p class="article-text">
+                        Cloudflare 的官方 CLI 工具 Wrangler 已经升级到 v4 版本，它紧跟 Node.js 官方的生命周期策略，只支持 Current、Active LTS 和维护中的 LTS 版本。
+                    </p>
+                    <p class="article-text">这意味着：</p>
+                    <ul class="article-list">
+                        <li>Node.js 16 已经不再被支持（2022 年已结束生命周期）</li>
+                        <li>Node.js 18 虽然还能用，但属于维护期，未来会逐步淘汰</li>
+                        <li>推荐使用 Node.js 22 或更高版本</li>
+                    </ul>
+                    <p class="article-text">
+                        Node.js 22（代号 Jod）于 2024 年 4 月发布，2024 年 10 月进入 Active LTS，维护期持续到 2027 年 4 月 30 日。对于现在开始学习或开发 Worker 项目，Node.js 22 是稳妥的选择。
+                    </p>
+                    <div class="highlight-box">
+                        <p>💡 <strong>小白操作建议：</strong>去 nodejs.org 下载标有 LTS 的安装包，当前会指向 22.x 版本。安装时确保勾选“Add to PATH”，装完后在终端运行 <code>node -v</code> 验证，应显示 <code>v22.x.x</code>。</p>
+                    </div>
+                    <h2 class="section-title">
+                        二、一条命令创建项目并自动装好 Wrangler
+                    </h2>
+                    <p class="article-text">
+                        你不需要单独全局安装 Wrangler。Cloudflare 的官方脚手架 <code>create-cloudflare</code>（简称 C3）会在创建项目时自动把 Wrangler 安装到项目的开发依赖中。
+                    </p>
+                    <p class="article-text">在终端运行：</p>
+                    <pre><code class="language-bash">npm create cloudflare@latest -- my-first-worker</code></pre>
+                    <p class="article-text">
+                        系统会提示你安装 <code>create-cloudflare</code> 包，然后进入交互式配置。对于第一次上手，建议按以下选项操作：
+                    </p>
+                    <table class="article-table">
+                        <thead>
+                            <tr>
+                                <th>提示问题</th>
+                                <th>推荐选择</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>What would you like to start with?</td>
+                                <td>Hello World example</td>
+                            </tr>
+                            <tr>
+                                <td>Which template would you like to use?</td>
+                                <td>Worker only</td>
+                            </tr>
+                            <tr>
+                                <td>Which language do you want to use?</td>
+                                <td>JavaScript</td>
+                            </tr>
+                            <tr>
+                                <td>Do you want to use git for version control?</td>
+                                <td>建议选 Yes</td>
+                            </tr>
+                            <tr>
+                                <td>Do you want to deploy your application?</td>
+                                <td>No（先本地跑通）</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p class="article-text">完成后进入项目目录：</p>
+                    <pre><code class="language-bash">cd my-first-worker</code></pre>
+                    <p class="article-text">C3 会生成这些关键文件：</p>
+                    <ul class="article-list">
+                        <li><code>wrangler.jsonc</code>：Wrangler 配置文件，定义项目名称、入口等</li>
+                        <li><code>src/index.js</code>：入口代码，一个返回 “Hello World!” 的 Worker</li>
+                        <li><code>package.json</code>：npm 依赖配置，Wrangler 已在 <code>devDependencies</code> 中</li>
+                    </ul>
+                    <h2 class="section-title">
+                        三、本地启动开发服务器
+                    </h2>
+                    <p class="article-text">在项目目录下运行：</p>
+                    <pre><code class="language-bash">npm run start</code></pre>
+                    <p class="article-text">
+                        这个命令会调用 <code>wrangler dev</code>，在本地启动一个开发服务器。首次运行时，Wrangler 会自动打开浏览器引导你登录 Cloudflare 账号。
+                    </p>
+                    <p class="article-text">
+                        服务默认运行在 <code>http://localhost:8787</code>。浏览器打开这个地址，你会看到代码返回的内容（默认是 “Hello World!”）。
+                    </p>
+                    <p class="article-text">
+                        此时你可以编辑 <code>src/index.js</code> 中的代码，保存后本地服务器会自动热重载，方便快速调试。<code>request.cf</code> 对象还可以读取当前请求命中的边缘节点信息，比如 <code>request.cf.colo</code> 会返回数据中心代号（如 <code>HKG</code> 代表香港），让你直观感受到“代码跑在边缘”的效果。
+                    </p>
+                    <h2 class="section-title">
+                        四、部署上线
+                    </h2>
+                    <p class="article-text">本地验证没问题后，运行：</p>
+                    <pre><code class="language-bash">npm run deploy</code></pre>
+                    <p class="article-text">
+                        这个命令会调用 <code>wrangler deploy</code>，将代码打包并发布到 Cloudflare 全球网络。部署成功后，终端会返回你的 Worker 线上地址，格式类似：
+                    </p>
+                    <pre><code>https://my-first-worker.&lt;你的子域&gt;.workers.dev</code></pre>
+                    <p class="article-text">
+                        这个地址全球可访问，无需你配置服务器、DNS 或反向代理。Wrangler 会自动处理所有底层基础设施。
+                    </p>
+                    <h2 class="section-title">
+                        五、后续可以尝试什么
+                    </h2>
+                    <p class="article-text">
+                        跑通 Hello World 后，Worker 的真正价值在于可以在边缘处理请求逻辑。比如写一个简单的 API：
+                    </p>
+                    <pre><code class="language-javascript">export default {
+  async fetch(request) {
+    const url = new URL(request.url);
+    if (url.pathname === '/api/health') {
+      return Response.json({
+        status: 'ok',
+        edge_node: request.cf?.colo
+      });
+    }
+    return new Response('Not Found', { status: 404 });
+  }
+};</code></pre>
+                    <p class="article-text">
+                        当你需要存储数据时，可以绑定 Workers KV（适合配置和缓存，读取延迟通常在 10ms 以内）或 D1（SQLite 边缘数据库）。这些都可以在 <code>wrangler.jsonc</code> 中通过绑定配置逐步引入。
+                    </p>
+                    <p class="article-text"><strong>常用命令速查：</strong></p>
+                    <ul class="article-list">
+                        <li>实时查看线上日志：<code>npx wrangler tail</code></li>
+                        <li>检查 Wrangler 版本：<code>npx wrangler --version</code></li>
+                        <li>模拟部署但不实际上线：<code>npx wrangler deploy --dry-run</code></li>
+                    </ul>
+                    <p class="article-text">
+                        从安装 Node.js 22 到部署成功，全程大概 10 分钟。Worker 的整套工具链已经相当成熟，适合从简单 API 到完整后端服务的渐进式开发。遇到问题时，可以把终端报错信息发出来进一步排查。
+                    </p>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/11/index.html">https://156blog.pages.dev/articles/11/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[教程]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[GeeTest Web端完整接入指南：行为验证与设备指纹实践]]></title>
+      <link>https://156blog.pages.dev/articles/12/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/12/index.html</guid>
+      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[GeeTest行为验证v4与设备指纹GeeGuard的Web接入指南，强调Key严禁泄露到前端，涵盖初始化、服务端校验与风险处置策略。]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <section class="article-section">
+                    <div class="highlight-box">
+                        <p> <strong>核心安全红线：Key 严禁泄露到前端。</strong> 本文所有示例中，前端只持有公开的 captchaId / appId，私钥 Key 必须且只能存放在业务服务端。</p>
+                    </div>
+                    <h2 class="section-title"> GeeTest 的产品逻辑：从行为切入</h2>
+                    <p class="article-text">
+                        在网站安全防护中，如何在“阻挡机器脚本”与“不干扰真实用户”之间取得平衡，是开发者长期面临的难题。GeeTest（极验）作为国内行为式验证的开创者，通过 AI 对交互行为进行实时分析，尝试用“无感验证”替代传统的“问题-答案”模式。本文将聚焦 <strong>Web 端</strong>，系统梳理 GeeTest 两大核心产品的接入方法：<strong>行为验证第四代（CAPTCHA v4）</strong> 与 <strong>设备指纹（GeeGuard）</strong>。
+                    </p>
+                    <p class="article-text">
+                        传统验证码依赖识别文字或解题，用户体验差且容易被自动化工具绕过。GeeTest 的思路不同：它不主要基于“问题-答案”的检测模式，而是利用深度学习对验证过程中产生的行为数据（如鼠标轨迹、点击节奏、滑动加速度）进行高维分析，发现人机行为模式与行为特征的差异。这种“行为式验证”的核心目标是：<strong>让真实用户近乎无感通过，同时对自动化脚本保持高压</strong>。
+                    </p>
+                    <p class="article-text">
+                        目前 GeeTest 在 Web 端主要提供两款互补的安全能力：
+                    </p>
+                    <ul class="article-list">
+                        <li><strong>行为验证（CAPTCHA v4）</strong>：最新一代验证码产品，根据实时风险等级动态调整验证难度与交互形式。常部署在注册、登录、短信发送、营销活动等关键节点。</li>
+                        <li><strong>设备指纹（GeeGuard）</strong>：通过收集设备端的弱特征因子（硬件参数、网络环境、传感器数据等超过300项），生成稳定的设备唯一标识，并实时输出设备风险标签与风险状态。适用于识别虚拟设备、自动化工具、改机软件等风险场景。</li>
+                    </ul>
+                    <p class="article-text">
+                        两者可组合使用：设备指纹在后台持续评估风险，行为验证在关键节点提供强校验。
+                    </p>
+                    <h2 class="section-title">🔑 ⚠️ 核心安全前提：Key 严禁泄露到前端</h2>
+                    <div class="highlight-box" style="border-left-color: #d32f2f; background: #fff5f5;">
+                        <p>⚠️ <strong>极验的 <code>Key</code>（私钥）只能存放在业务服务端，严禁写入任何前端代码、JS 文件、HTML 页面或客户端 App。 <code>captchaId</code> / <code>appId</code> 可以公开，但 <code>Key</code> 一旦泄露等同于验证体系被完全攻破。</strong></p>
+                    </div>
+                    <p class="article-text">
+                        这是整个接入过程中最容易被忽视、后果也最严重的问题。具体风险与正确做法如下。
+                    </p>
+                    <h3 class="subsection-title">为什么 Key 不能出现在前端</h3>
+                    <p class="article-text">
+                        <strong>Key 是服务端二次校验的凭证</strong>。行为验证通过后，业务服务端需要拿着 <code>captchaId</code> + <code>Key</code> + 客户端返回的 <code>response</code> 去调用极验的校验接口。如果 <code>Key</code> 被写进前端 JS，任何人打开浏览器开发者工具或抓包即可获取，攻击者就能：
+                    </p>
+                    <ul class="article-list">
+                        <li>伪造服务端校验请求，自行生成“验证通过”的结果，让行为验证形同虚设；</li>
+                        <li>绕过风控直接调用极验接口，批量刷取合法 <code>response</code>；</li>
+                        <li>结合设备指纹接口查询能力，恶意消耗你的账户配额。</li>
+                    </ul>
+                    <p class="article-text">
+                        <strong>一句话总结</strong>：前端拿到 <code>Key</code> = 验证码白装。
+                    </p>
+                    <h3 class="subsection-title">正确与错误的写法对比</h3>
+                    <p class="article-text">❌ <strong>错误示范（Key 暴露在前端）</strong>：</p>
+                    <pre class="code-block"><code>&lt;script&gt;
+// 绝对禁止！Key 一旦出现在这里，等于公开泄露
+initGeetest4({
+    captchaId: '你的captchaId',
+    key: 'xxxxxxxxxxxxxxxx',   // ⛔ 不要这样做
+});
+&lt;/script&gt;</code></pre>
+                    <p class="article-text">✅ <strong>正确做法（前端只放 captchaId）</strong>：</p>
+                    <pre class="code-block"><code>&lt;script src="https://static.geetest.com/v4/gt4.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+// 前端只需要 captchaId，它是公开标识，可以安全暴露
+initGeetest4({
+    captchaId: '你的captchaId'
+}, function (captcha) {
+    captcha.appendTo("#captcha");
+});
+&lt;/script&gt;</code></pre>
+                    <p class="article-text">
+                        <code>Key</code> 只存在于服务端配置中（如环境变量、配置中心、密钥管理服务），永不进入代码仓库的前端部分，也不出现在任何返回给浏览器的响应里。
+                    </p>
+                    <h3 class="subsection-title">服务端校验才是唯一可信来源</h3>
+                    <p class="article-text">
+                        前端拿到 <code>response</code> 后，必须把它交给业务服务端，由服务端携带 <code>Key</code> 调用极验校验接口。<strong>前端回调里的“成功”只代表用户完成了交互，不代表验证真正通过</strong>。真正的判定权在服务端。这也是防止 Key 被滥用的最后一道防线：即便前端逻辑被逆向，没有 Key 也无法伪造校验结果。
+                    </p>
+                    <h3 class="subsection-title">其他相关的密钥卫生习惯</h3>
+                    <ul class="article-list">
+                        <li><strong>不要把 Key 硬编码进任何可能被打包的前端资源</strong>，包括但不限于：JS 文件、HTML、CSS 注释、source map、构建产物、小程序包。</li>
+                        <li><strong>不要在日志中打印 Key</strong>，避免日志泄露。</li>
+                        <li><strong>前端环境变量要区分</strong>：像 <code>VITE_</code>、<code>NEXT_PUBLIC_</code>、<code>REACT_APP_</code> 这类前缀的变量会被打进前端包，<strong>绝不能用来存 Key</strong>。</li>
+                        <li><strong>定期轮换 Key</strong>：在极验后台可以重置 Key，一旦怀疑泄露应立即重置，并同步更新服务端配置。</li>
+                        <li><strong>App 端同理</strong>：客户端（iOS / Android / HarmonyOS）接入时，<code>Key</code> 同样只能放服务端，客户端只持有 <code>captchaId</code> / <code>appId</code>。</li>
+                    </ul>
+                    <h2 class="section-title">🛡️ 行为验证（CAPTCHA v4）Web 接入</h2>
+                    <h3 class="subsection-title">环境与资源</h3>
+                    <p class="article-text">
+                        GeeTest 行为验证第四代当前 JS 版本为 <code>gt4.js</code>（2024年8月更新），兼容 IE9+、Chrome、Firefox、Safari 以及主流手机浏览器和 iOS/Android WebView。
+                    </p>
+                    <p class="article-text">
+                        JS 资源地址：<code>https://static.geetest.com/v4/gt4.js</code>
+                    </p>
+                    <p class="article-text">
+                        官方建议将 JS 下载后上传到自有服务器加载，以提升流程稳定性。
+                    </p>
+                    <h3 class="subsection-title">接入步骤</h3>
+                    <p class="article-text"><strong>1. 页面加载时初始化</strong></p>
+                    <p class="article-text">
+                        关键注意：行为验证<strong>必须在业务页面加载时同步初始化</strong>，否则验证无法读取用户在业务页面上的操作行为数据，会导致验证策略失效。
+                    </p>
+                    <pre class="code-block"><code>&lt;script src="https://static.geetest.com/v4/gt4.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+initGeetest4({
+    captchaId: '你的captchaId'  // 在极验后台创建业务场景后获取
+}, function (captcha) {
+    captcha.appendTo("#captcha"); // 将验证码插入指定元素
+});
+&lt;/script&gt;</code></pre>
+                    <p class="article-text"><strong>2. 业务触发时调用验证</strong></p>
+                    <p class="article-text">
+                        在用户点击“登录”“注册”“发送短信”等按钮时，调用验证码实例的 <code>verify()</code> 方法弹出验证窗口。
+                    </p>
+                    <p class="article-text"><strong>3. 回调处理与服务端二次校验</strong></p>
+                    <p class="article-text">
+                        验证完成后，通过监听器获取 <code>response</code> 参数。<strong>客户端回调结果不可直接信任</strong>，必须将 <code>response</code> 提交到业务服务端，由服务端携带 <code>Key</code> 调用极验 API 进行二次校验。这是防止协议破解的核心防线，也是 Key 不被前端接触的根本原因。
+                    </p>
+                    <p class="article-text"><strong>4. 多场景处理</strong></p>
+                    <p class="article-text">
+                        同一页面存在多个验证场景时，每个场景需<strong>单独调用</strong> <code>initGeetest4</code> 进行独立初始化。如果在 iframe 中使用，需设置 <code>sandbox="allow-scripts allow-popups"</code> 以保证功能完整性。
+                    </p>
+                    <h3 class="subsection-title">集成时间参考</h3>
+                    <p class="article-text">
+                        客户端集成预计 <strong>1 天</strong>，服务端集成约 <strong>30 分钟</strong>。
+                    </p>
+                    <h2 class="section-title"> 设备指纹（GeeGuard）Web 接入</h2>
+                    <h3 class="subsection-title">环境与资源</h3>
+                    <p class="article-text">
+                        GeeGuard Web 端 JS 文件为 <code>gd.js</code>（2024年10月更新），兼容性与行为验证一致。
+                    </p>
+                    <p class="article-text">
+                        JS 资源地址：<code>https://static.geetest.com/g5/gd.js</code>
+                    </p>
+                    <h3 class="subsection-title">接入步骤</h3>
+                    <p class="article-text"><strong>1. 引入 JS 并初始化</strong></p>
+                    <p class="article-text">
+                        设备指纹的采集是静默的，通常在页面加载或业务动作前调用初始化函数。在极验后台创建应用后获取 <code>appId</code>。
+                    </p>
+                    <pre class="code-block"><code>&lt;script src="https://static.geetest.com/g5/gd.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+initGeeGuard({
+    appId: '你的appId',
+    protocol: 'https://',        // 本地或混合开发环境必填
+    customInfo: '业务唯一流水号'   // 防止 gee_token 被挪用到其他场景
+}, function (data) {
+    if (data.status === 'success' && data.data && data.data.gee_token) {
+        // 将 gee_token 随业务请求提交到服务端
+    }
+});
+&lt;/script&gt;</code></pre>
+                    <p class="article-text"><strong>2. 关键配置说明</strong></p>
+                    <p class="article-text">
+                        <code>appId</code> 为必填参数，属于公开标识，可以出现在前端。<code>protocol</code> 在本地开发或混合开发环境中建议显式设置为 <code>https://</code>，否则可能自动取到 <code>file:</code> 协议导致异常。<code>customInfo</code> 建议传入唯一业务流水号，用于防止 GeeToken 从原业务场景被剥离。
+                    </p>
+                    <div class="highlight-box">
+                        <p>⚠️ <strong>再次强调</strong>：设备指纹同样涉及服务端查询接口，调用该接口所需的 <code>Key</code> <strong>绝不允许下发到前端</strong>。前端只负责拿到 <code>gee_token</code> 并提交给服务端。</p>
+                    </div>
+                    <p class="article-text"><strong>3. 服务端查询风险</strong></p>
+                    <p class="article-text">
+                        将 <code>gee_token</code> 提交业务服务端后，由服务端携带 <code>Key</code> 调用极验设备指纹接口查询风险结果。服务端根据返回的 <code>risk_level</code> 做出处置决策。
+                    </p>
+                    <h3 class="subsection-title">风险处置策略</h3>
+                    <table class="data-table">
+                        <thead>
+                            <tr><th>风险等级</th><th>建议动作</th><th>适用场景</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr><td><code>pass</code></td><td>放行并记录</td><td>普通登录、浏览</td></tr>
+                            <tr><td><code>review</code></td><td>二次验证、限频或人工审核</td><td>注册、领奖、下单、提现</td></tr>
+                            <tr><td><code>reject</code></td><td>拒绝或拦截</td><td>批量注册、薅羊毛、接口攻击</td></tr>
+                        </tbody>
+                    </table>
+                    <p class="article-text">
+                        <strong>注意</strong>：查询失败或超时时，<strong>不建议直接封禁</strong>，应进入 review 或按低风险放行，避免因接口抖动误伤正常用户。
+                    </p>
+                    <h3 class="subsection-title">常见错误</h3>
+                    <p class="article-text">
+                        <code>-50101</code> 表示 <code>appId</code> 为空或未正确传入。<code>gee_token</code> 为空时不应直接放行，需根据业务风险等级决定后续动作。
+                    </p>
+                    <h2 class="section-title">🔄 两者对比与组合策略</h2>
+                    <table class="data-table">
+                        <thead>
+                            <tr><th>维度</th><th>行为验证 v4</th><th>设备指纹</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr><td><strong>交互方式</strong></td><td>用户主动滑动/点击</td><td>静默采集，无感</td></tr>
+                            <tr><td><strong>触发时机</strong></td><td>业务按钮点击时</td><td>页面加载或业务动作前</td></tr>
+                            <tr><td><strong>返回参数</strong></td><td><code>response</code></td><td><code>gee_token</code></td></tr>
+                            <tr><td><strong>服务端动作</strong></td><td>二次校验 response</td><td>查询设备风险结果</td></tr>
+                            <tr><td><strong>典型场景</strong></td><td>登录、注册、短信发送</td><td>反欺诈、风控评估</td></tr>
+                            <tr><td><strong>前端持有</strong></td><td>captchaId</td><td>appId</td></tr>
+                            <tr><td><strong>前端严禁持有</strong></td><td>Key</td><td>Key</td></tr>
+                        </tbody>
+                    </table>
+                    <p class="article-text">
+                        组合使用的推荐模式：设备指纹在用户进入页面或执行敏感操作前持续输出风险信号，行为验证在关键节点提供强人机校验。设备指纹判定为 <code>reject</code> 时可直接拦截，无需再触发行为验证；判定为 <code>review</code> 时叠加行为验证作为二次确认。
+                    </p>
+                    <h2 class="section-title"> 接入注意事项</h2>
+                    <ul class="article-list">
+                        <li><strong>Key 永不落地前端</strong>：这是本文反复强调的第一原则。任何把 Key 写进 JS、HTML、source map、前端环境变量或客户端包的做法，都等同于主动放弃验证能力。前端只持有公开的 <code>captchaId</code> / <code>appId</code>，所有需要 Key 的调用一律在服务端完成。</li>
+                        <li><strong>隐私合规</strong>：行为验证与设备指纹均涉及数据采集。GeeTest 提供了相应的隐私政策与合规指南，在应用上架审核时需声明 SDK 采集的数据类型与用途。</li>
+                        <li><strong>服务端校验不可省略</strong>：客户端的回调结果仅代表交互完成，真正的“通过”必须由服务端向极验服务器验证。这既是安全设计的基本原则，也是 Key 不外泄的前提。</li>
+                        <li><strong>配置参数审慎使用</strong>：<code>offline</code>、<code>apiServers</code>、<code>staticServers</code> 等高级配置在非明确需求下不建议随意设置，可能在不同场景下产生副作用。</li>
+                        <li><strong>iframe 场景</strong>：行为验证在 iframe 中需设置 <code>sandbox="allow-scripts allow-popups"</code>，否则验证功能可能不完整。</li>
+                    </ul>
+                    <div class="highlight-box">
+                        <p> 记住：前端只负责收集用户交互产生的 <code>response</code> / <code>gee_token</code>，真正的安全决策永远在服务端。Key 一旦触碰前端，所有防线归零。</p>
+                    </div>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/12/index.html">https://156blog.pages.dev/articles/12/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[教程]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[156 2FA 工具介绍]]></title>
+      <link>https://156blog.pages.dev/articles/10/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/10/index.html</guid>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[156 2FA 是一款纯本地运行、多用户隔离、零云端依赖的动态验证码工具。所有账户密钥以加密形式保存在本地，主密码仅用于本机校验和解密。]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <!-- 前言 -->
+                <section class="article-section">
+                    <h2 class="section-title">📖 这是什么</h2>
+                    <p class="article-text">
+                        156 2FA 是一款<strong>纯本地运行、多用户隔离、零云端依赖</strong>的动态验证码工具。它不托管任何数据，不依赖第三方服务，所有的账户密钥都以加密形式保存在你自己的电脑里，主密码只用于本机校验和解密。
+                    </p>
+                    <p class="article-text">
+                        你可以把它理解为：一个属于你自己的、可自行备份迁移的 2FA 保险库。
+                    </p>
+                </section>
+                <!-- 核心特点 -->
+                <section class="article-section">
+                    <h2 class="section-title">✨ 核心特点</h2>
+                    <ul class="article-list">
+                        <li><strong>纯本地运行</strong>：所有计算、解密、验证码生成，全部在你本机完成，不上传网络。</li>
+                        <li><strong>多用户支持</strong>：不同用户可以拥有各自独立的加密保险库，数据彼此隔离，互不干扰。</li>
+                        <li><strong>加密存储</strong>：账户密钥以加密 JSON 形式保存，主密码通过 Argon2id 校验后用于解密。</li>
+                        <li><strong>标准 TOTP 算法</strong>：支持 SHA1 / SHA256 / SHA512，支持 6 位 / 8 位验证码，支持 30 秒 / 60 秒周期。</li>
+                        <li><strong>多种导入方式</strong>：支持手动输入密钥、上传二维码图片、粘贴 otpauth 链接导入。</li>
+                        <li><strong>备份与迁移</strong>：支持导出加密备份（.json），也支持导出 otpauth 明文文本（.txt）用于迁移到其他验证器。</li>
+                        <li><strong>无广告、无追踪、无网络请求</strong>：不依赖任何云服务，不采集任何用户数据。</li>
+                    </ul>
+                </section>
+                <!-- 使用方式 -->
+                <section class="article-section">
+                    <h2 class="section-title"> 使用方式</h2>
+                    <h3 class="subsection-title">1. 启动程序</h3>
+                    <p class="article-text">
+                        运行本地 Python 服务，程序会自动打开一个本地 Web 页面（默认监听 <code>127.0.0.1</code> 的随机端口）。
+                    </p>
+                    <h3 class="subsection-title">2. 登录</h3>
+                    <p class="article-text">
+                        首次使用时，你可以创建一个本地账户。输入用户名和主密码，程序会用 Argon2id 校验密码，并用该密码解密属于你的加密保险库。
+                    </p>
+                    <h3 class="subsection-title">3. 添加账户</h3>
+                    <p class="article-text">在“添加账户”弹窗中，你可以通过三种方式导入 2FA 账户：</p>
+                    <ul class="article-list">
+                        <li><strong>手动输入</strong>：填写备注名称、发行方（可选）、Base32 密钥、算法、位数、周期。</li>
+                        <li><strong>二维码图片</strong>：上传包含 otpauth 信息的二维码图片，程序会自动解析出密钥。</li>
+                        <li><strong>链接导入</strong>：粘贴 <code>otpauth://</code> 格式的链接，程序会自动提取密钥和参数。</li>
+                    </ul>
+                    <h3 class="subsection-title">4. 查看验证码</h3>
+                    <p class="article-text">
+                        登录后，主界面会显示所有账户的当前动态验证码，并配有倒计时圆环。每 30 秒自动刷新一次。
+                    </p>
+                    <h3 class="subsection-title">5. 管理数据</h3>
+                    <p class="article-text">在设置页面中，你可以：</p>
+                    <ul class="article-list">
+                        <li><strong>切换用户</strong>：锁闭当前保险库，返回登录界面，各用户数据独立。</li>
+                        <li><strong>导出备份</strong>：导出加密备份（.json）或 otpauth 明文文本（.txt）。</li>
+                        <li><strong>导入数据</strong>：支持“合并追加”和“覆盖全部”两种模式。</li>
+                        <li><strong>重置程序</strong>：删除本地保存的全部用户及其账户数据，恢复首次使用状态。</li>
+                    </ul>
+                </section>
+                <!-- 安全说明 -->
+                <section class="article-section">
+                    <h2 class="section-title"> 安全说明</h2>
+                    <ul class="article-list">
+                        <li><strong>主密码只在本机使用</strong>：密码用于 Argon2id 校验，并派生出用于解密保险库的密钥。密码不会上传网络，不会写入任何日志。</li>
+                        <li><strong>数据加密存储</strong>：账户密钥以加密 JSON 形式保存在程序目录下的 <code>data/vault.json</code>。即使文件被复制，没有主密码也无法解密。</li>
+                        <li><strong>本地服务不暴露公网</strong>：服务只监听 <code>127.0.0.1</code>，局域网内其他设备无法访问。</li>
+                        <li><strong>安全前提</strong>：本工具假设当前电脑为可信设备。如果电脑已被黑客控制，任何本地工具都无法保证密钥安全。</li>
+                    </ul>
+                    <div class="highlight-box">
+                        <p>✅ 正是这种“本地优先 + 加密存储 + 多用户隔离”的设计理念，让这款工具在隐私保护上值得信赖。</p>
+                    </div>
+                </section>
+                <!-- 适用人群 -->
+                <section class="article-section">
+                    <h2 class="section-title"> 适用人群</h2>
+                    <ul class="article-list">
+                        <li>希望把 2FA 密钥完全掌握在自己手里，不想依赖云端验证器的用户。</li>
+                        <li>需要在一台电脑上为多个用户提供独立 2FA 保险库的用户。</li>
+                        <li>对隐私敏感，希望使用纯本地、零网络请求工具的用户。</li>
+                        <li>开发者或技术爱好者，想了解 TOTP 原理和本地加密存储的实现方式。</li>
+                    </ul>
+                </section>
+                <!-- 结语 -->
+                <section class="article-section">
+                    <h2 class="section-title">📌 结语</h2>
+                    <p class="article-text">
+                        156 2FA 不是要取代所有验证器，而是提供一个<strong>完全由你掌控</strong>的本地选项。
+                    </p>
+                    <p class="article-text">
+                        它不承诺“绝对安全”，但它承诺：你的密钥不会离开你的电脑，你的主密码不会上传网络，你的数据可以随时备份和迁移。
+                    </p>
+                    <div class="highlight-box">
+                        <p>
+                             <strong>温馨提示</strong>：主密码是解锁保险库的唯一凭证，请务必妥善保管，不要泄露给任何人。
+                        </p>
+                    </div>
+                    <p class="article-text" style="margin-top: 0.8rem;">
+                        <em>本文介绍的工具为本地 Python + Web 工具，欢迎前往 <a href="https://github.com/bCreeper156" target="_blank" rel="noopener">GitHub 主页</a> 查看更多项目。</em>
+                    </p>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/10/index.html">https://156blog.pages.dev/articles/10/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[工具]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[适合小白的Windows电脑优化教程（完整版）]]></title>
+      <link>https://156blog.pages.dev/articles/9/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/9/index.html</guid>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[一份面向小白的Windows电脑优化完整教程，涵盖卸载清理、开机自启、安全软件、存储感知、电源设置、软件安装、Chrome优化、压缩/下载/听歌/搜索工具推荐等实用内容]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <!-- 引言 -->
+                <section class="article-section">
+                    <div class="highlight-box">
+                        <p> <strong>核心原则</strong>：不碰注册表、不乱超频，只做安全有效的基础设置。</p>
+                    </div>
+                </section>
+                <!-- 1. 卸载全家桶 -->
+                <section class="article-section">
+                    <h2 class="section-title">1. 卸载“全家桶”，用专业工具清干净</h2>
+                    <p class="article-text">很多电脑卡顿是因为后台驻留了太多不需要的软件。</p>
+                    <p class="article-text"><strong>推荐工具</strong>：<a href="https://geekuninstaller.com/download" target="_blank" rel="noopener">Geek Uninstaller 官网下载</a>（免安装、无广告）</p>
+                    <ul class="article-list">
+                        <li>下载后解压，<strong>右键 <code>geek.exe</code> → 以管理员身份运行</strong></li>
+                        <li>右键点击任何软件 → 选择“卸载”，自带卸载程序跑完后，Geek 会自动扫描残留的文件夹和注册表，<strong>一键彻底删除</strong></li>
+                        <li><strong>注意</strong>：从微软应用商店安装的软件，在 Geek 界面中会归类在 <strong>“Windows Apps”</strong> 下，点击展开即可找到并卸载</li>
+                    </ul>
+                    <p class="article-text"><strong>手动辅助</strong>：同样可以去 <strong>设置 &gt; 应用</strong> 里，把来路不明的“天气”“播放器”“解压软件”等卸载掉。</p>
+                </section>
+                <!-- 2. 关闭开机自启 -->
+                <section class="article-section">
+                    <h2 class="section-title">2. 关闭开机自启，拒绝弹窗</h2>
+                    <p class="article-text">按 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> 打开任务管理器 → 左侧“启动应用” → 将 <strong>非必要软件（如微信、Adobe等）全部右键“禁用”</strong></p>
+                </section>
+                <!-- 3. 安装安全软件 -->
+                <section class="article-section">
+                    <h2 class="section-title">3. 安装安全软件（二选一，勿同时安装）</h2>
+                    <p class="article-text"><strong>首选：火绒安全</strong></p>
+                    <ul class="article-list">
+                        <li>轻量无打扰，无弹窗、无广告、无捆绑</li>
+                        <li>核心功能：弹窗拦截、启动项管理、垃圾清理</li>
+                        <li>官网下载：<a href="https://www.huorong.cn/" target="_blank" rel="noopener">https://www.huorong.cn/</a></li>
+                    </ul>
+                    <p class="article-text"><strong>备选：360 卫士极速版</strong></p>
+                    <ul class="article-list">
+                        <li>若因习惯或特殊需求必须使用 360，请选择极速版</li>
+                        <li>特点：无弹窗、无广告、无捆绑，比普通版干净很多</li>
+                        <li>官网下载：<a href="https://jisu.360.cn/" target="_blank" rel="noopener">https://jisu.360.cn/</a></li>
+                    </ul>
+                    <div class="highlight-box">
+                        <p>⚠️ 两款安全软件任选其一即可，不建议同时安装，避免冲突拖慢电脑。</p>
+                    </div>
+                </section>
+                <!-- 4. 存储感知 -->
+                <section class="article-section">
+                    <h2 class="section-title">4. 打开“存储感知”，自动清垃圾</h2>
+                    <p class="article-text">不需要用“管家”深度扫描。</p>
+                    <ul class="article-list">
+                        <li>按 <kbd>Win</kbd> + <kbd>i</kbd> → <strong>系统 &gt; 存储</strong> → 打开“存储感知”</li>
+                        <li>点击“清理建议”或“临时文件”，系统会安全清理回收站、Windows 更新残留、下载文件夹中的旧安装包</li>
+                    </ul>
+                </section>
+                <!-- 5. 电源与性能 -->
+                <section class="article-section">
+                    <h2 class="section-title">5. 调整电源与性能模式（尤其笔记本）</h2>
+                    <ul class="article-list">
+                        <li><strong>设置 &gt; 系统 &gt; 电源与电池</strong> → 电源模式改为 <strong>“最佳性能”</strong></li>
+                        <li>有独立显卡的电脑：搜索 <strong>“图形设置”</strong> → 将游戏/剪辑软件添加进去 → 选项设为 <strong>“高性能”</strong></li>
+                    </ul>
+                </section>
+                <!-- 6. 软件下载与安装习惯 -->
+                <section class="article-section">
+                    <h2 class="section-title">6. 软件下载与安装习惯</h2>
+                    <p class="article-text"><strong>下载软件的安全渠道</strong></p>
+                    <ul class="article-list">
+                        <li>建议优先从 <strong>微软应用商店（Microsoft Store）</strong> 下载软件，安全无毒、无捆绑</li>
+                        <li><strong>注意</strong>：在商店搜索软件时，请选择标注为 <strong>“电脑版”</strong> 或 <strong>“PC”</strong> 的版本。<strong>不要下载带有“腾讯应用宝提供”字样的手机版应用</strong>，此类版本在电脑上运行不稳定，功能也可能不完整</li>
+                        <li>若商店没有，再去官网下载，避免使用第三方下载站或“高速下载器”</li>
+                    </ul>
+                    <p class="article-text"><strong>安装位置选择</strong></p>
+                    <ul class="article-list">
+                        <li><strong>非必要软件尽量不要安装在 C 盘</strong>（系统盘），避免 C 盘空间爆满导致电脑变慢</li>
+                        <li>安装时选择 <strong>“自定义安装”</strong>，将路径改为 <strong>D 盘、E 盘</strong> 等其他分区</li>
+                        <li>建议在 D 盘新建一个 <code>Program Files</code> 文件夹，专门存放自己安装的软件</li>
+                    </ul>
+                    <p class="article-text"><strong>推荐浏览器：Google Chrome</strong></p>
+                    <ul class="article-list">
+                        <li>很多国产浏览器自带广告和后台进程，推荐使用轻量、快速的 Chrome</li>
+                        <li><a href="https://www.google.cn/intl/zh-CN/chrome/" target="_blank" rel="noopener">官方下载链接</a>（国内可稳定访问）</li>
+                        <li>安装后建议登录 Google 账号，同步书签、密码，重装电脑也不怕丢</li>
+                    </ul>
+                    <p class="article-text"><strong>辅助工具：ViewTurbo（用于辅助登录 Google 账号）</strong></p>
+                    <ul class="article-list">
+                        <li>若遇到无法访问 Google 相关服务的情况，可使用此工具</li>
+                        <li>新加坡团队开发，支持 Windows 10+，采用 ChaCha20 加密，无日志政策</li>
+                        <li><strong>最新下载/注册链接</strong>：<a href="https://link.vtfly.com/register?share_id=7pz90d&lang=zh" target="_blank" rel="noopener">点击进入</a></li>
+                        <li>也可访问官网备用地址：<a href="https://viewturbo.net/" target="_blank" rel="noopener">https://viewturbo.net/</a></li>
+                        <li>注册后可获赠 200~500MB 试用流量，<strong>每日签到可在“个人中心”获取额外免费流量</strong>，适合轻度使用</li>
+                    </ul>
+                </section>
+                <!-- 7. Chrome优化 -->
+                <section class="article-section">
+                    <h2 class="section-title">7. Chrome 浏览器优化设置</h2>
+                    <p class="article-text">安装好 Chrome 后，建议进行以下设置，让浏览体验更顺畅、更安全：</p>
+                    <p class="article-text"><strong>① 将默认搜索引擎改为必应（推荐）</strong></p>
+                    <ul class="article-list">
+                        <li>打开 Chrome，点击右上角 <strong>三个点</strong> → 选择 <strong>“设置”</strong></li>
+                        <li>在左侧找到 <strong>“搜索引擎”</strong> → 点击 <strong>“管理搜索引擎和网站搜索”</strong></li>
+                        <li>找到 <strong>“必应”</strong>，点击右侧 <strong>三个点</strong> → 选择 <strong>“设为默认”</strong></li>
+                    </ul>
+                    <div class="highlight-box">
+                        <p> <strong>为什么不推荐百度</strong>：百度搜索推广中容易混入流氓软件下载站，对小白用户不够友好。必应搜索结果相对干净，国内可正常访问，是更安全的选择。</p>
+                    </div>
+                    <p class="article-text"><strong>② 迁移下载文件夹到 D 盘（避免 C 盘爆满）</strong></p>
+                    <ul class="article-list">
+                        <li>在 D 盘新建一个文件夹，命名为 <code>ChromeDownload</code> 或 <code>Downloads</code>（<strong>建议使用纯英文名称</strong>，避免某些软件或路径对中文支持不佳导致下载异常）</li>
+                        <li>回到 Chrome 设置 → 左侧找到 <strong>“下载内容”</strong></li>
+                        <li>点击 <strong>“更改”</strong> 按钮，选择刚才在 D 盘新建的文件夹</li>
+                        <li>打开 <strong>“下载前询问每个文件的保存位置”</strong> 开关，每次下载时即可自由选择保存路径</li>
+                    </ul>
+                    <p class="article-text"><strong>③ 使用专业的密码管理器（不要用 Chrome 自带的）</strong></p>
+                    <div class="highlight-box">
+                        <p> <strong>安全提示</strong>：Chrome 自带的密码管理器存在安全隐患。虽然密码在本地加密存储，但解密密钥在用户登录后会被暴露在系统中（例如通过特定工具可读取），一旦电脑被恶意软件入侵，密码就可能被批量导出。因此不建议依赖浏览器内置的密码管理功能。</p>
+                    </div>
+                    <p class="article-text"><strong>推荐：Bitwarden（浏览器扩展版）</strong></p>
+                    <ul class="article-list">
+                        <li>开源免费，端到端加密，支持跨平台同步（电脑、手机、平板）</li>
+                        <li><strong>建议安装浏览器扩展而非桌面应用</strong>：扩展程序已覆盖核心功能（自动填充、生成密码、保存登录信息），更轻量、无后台进程，使用体验更流畅</li>
+                        <li><strong>安装方式</strong>：在 Chrome 网上应用店搜索 “Bitwarden”，或直接访问 <a href="https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclclbl" target="_blank" rel="noopener">安装链接</a></li>
+                        <li>安装后注册账号并设置一个<strong>高强度主密码</strong>（这个密码一定要牢记，丢失无法找回）</li>
+                        <li>将 Chrome 中已保存的密码导入 Bitwarden，然后在 Chrome 设置中 <strong>关闭“提示保存密码”</strong> 功能，彻底禁用内置密码管理器</li>
+                    </ul>
+                </section>
+                <!-- 8. 三个防卡好习惯 -->
+                <section class="article-section">
+                    <h2 class="section-title">8. 三个“防卡”好习惯</h2>
+                    <ul class="article-list">
+                        <li><strong>文件别放桌面</strong>：桌面默认占用 C 盘空间，建议平时下载的文件手动转移到 D 盘或 E 盘</li>
+                        <li><strong>软件别装 C 盘</strong>：安装时留意路径，非必要软件都装到其他盘</li>
+                        <li><strong>浏览器插件要精简</strong>：只保留广告拦截（如 uBlock Origin）等必备插件，插件太多会明显拖慢上网速度</li>
+                    </ul>
+                </section>
+                <!-- 9. 压缩软件 -->
+                <section class="article-section">
+                    <h2 class="section-title">9. 压缩软件推荐：Bandizip</h2>
+                    <p class="article-text">很多国产压缩软件（如好压、快压）自带弹窗广告和捆绑软件，推荐使用纯净高效的 Bandizip。</p>
+                    <p class="article-text"><strong>推荐理由</strong></p>
+                    <ul class="article-list">
+                        <li><strong>完全免费，无广告、无捆绑</strong>：Windows 免费版无任何弹窗干扰</li>
+                        <li><strong>支持格式超全</strong>：可解压 RAR、7Z、ZIP、ISO 等 40 多种格式</li>
+                        <li><strong>速度更快</strong>：支持多核压缩，压缩速度比同类软件快 6 倍</li>
+                        <li><strong>安全加密</strong>：支持 AES256 加密算法，保护敏感文件</li>
+                        <li><strong>图片预览</strong>：无需解压即可查看压缩包内的图片缩略图</li>
+                    </ul>
+                    <p class="article-text"><strong>官网下载</strong>：<a href="https://www.bandisoft.com/bandizip/" target="_blank" rel="noopener">https://www.bandisoft.com/bandizip/</a></p>
+                    <div class="highlight-box">
+                        <p> Windows 用户选择免费版即可（标有“Free”标识），Mac 版需付费</p>
+                    </div>
+                    <p class="article-text"><strong>安装与设置建议</strong></p>
+                    <ul class="article-list">
+                        <li>下载后双击安装包，选择简体中文，按提示完成安装</li>
+                        <li>安装完成后，打开软件 → 点击右上角“齿轮”图标进入设置 → “文件关联”中勾选常用格式（ZIP、RAR、7Z等），设为默认压缩软件</li>
+                        <li>在设置中启用“右键菜单集成”，后续可直接在文件上右键完成压缩/解压</li>
+                    </ul>
+                    <div class="highlight-box">
+                        <p>⚠️ <strong>为什么不推荐 WinRAR</strong>：免费版有弹窗广告，且需要手动关闭；<strong>不推荐好压/快压</strong>：有捆绑软件和弹窗行为。</p>
+                    </div>
+                </section>
+                <!-- 10. 下载工具 -->
+                <section class="article-section">
+                    <h2 class="section-title">10. 下载工具推荐：FluxDown（全能下载器）</h2>
+                    <p class="article-text">很多浏览器自带的下载器速度慢且不支持断点续传，而老牌工具 IDM 需要付费。推荐使用 <strong>FluxDown</strong>，一款免费开源、功能全面的全能下载管理器。</p>
+                    <p class="article-text"><strong>核心优势</strong></p>
+                    <ul class="article-list">
+                        <li><strong>完全免费开源</strong>：零广告、零追踪、无需注册账号，是 IDM 的优秀免费替代品</li>
+                        <li><strong>多协议全面支持</strong>：支持 HTTP/HTTPS、FTP、<strong>BitTorrent 磁力链接</strong>、<strong>eD2K 电驴链接</strong>及 HLS/DASH 流媒体，一个软件搞定所有下载需求</li>
+                        <li><strong>智能多线程加速</strong>：Rust + Tokio 引擎，IDM 式动态分段，最高可达 10 倍提速</li>
+                        <li><strong>断点续传</strong>：下载状态持久化到 SQLite，崩溃断电不丢进度</li>
+                        <li><strong>浏览器无缝集成</strong>：提供 Chrome/Edge/Firefox 扩展，自动拦截浏览器下载请求，并支持页面音视频资源嗅探</li>
+                        <li><strong>跨平台支持</strong>：Windows、macOS、Linux 全平台覆盖</li>
+                        <li><strong>精美界面</strong>：深色/浅色主题，13 套配色方案</li>
+                    </ul>
+                    <p class="article-text"><strong>官网与下载</strong></p>
+                    <ul class="article-list">
+                        <li><strong>官网地址</strong>：<a href="https://fluxdown.zerx.dev" target="_blank" rel="noopener">https://fluxdown.zerx.dev</a></li>
+                        <li><strong>GitHub 项目</strong>：<a href="https://github.com/zerx-lab/FluxDown" target="_blank" rel="noopener">https://github.com/zerx-lab/FluxDown</a></li>
+                        <li><strong>浏览器扩展</strong>：Chrome 应用店搜索 “FluxDown” 或访问 <a href="https://chromewebstore.google.com/detail/fluxdown/meleenglfggcmcajknpeeeiobnpfmahc" target="_blank" rel="noopener">安装链接</a></li>
+                    </ul>
+                    <div class="highlight-box">
+                        <p> <strong>安全提示</strong>：认准官方域名 <code>fluxdown.zerx.dev</code>，警惕假冒网站</p>
+                    </div>
+                    <p class="article-text"><strong>安装与设置建议</strong></p>
+                    <ul class="article-list">
+                        <li>访问官网下载页，选择对应系统的安装包（Windows 用户下载 <code>setup.exe</code> 安装版或便携版 <code>.zip</code>）</li>
+                        <li>双击安装包按提示完成安装（安装路径可改为 D 盘）</li>
+                        <li><strong>安装浏览器扩展</strong>：在 Chrome 网上应用店安装 FluxDown 扩展，实现下载自动拦截</li>
+                        <li><strong>设置下载位置</strong>：打开软件 → 设置 → 下载 → 将“全局保存目录”改为 D 盘文件夹</li>
+                        <li><strong>BT/磁力下载</strong>：直接粘贴 <code>magnet:</code> 链接或打开 <code>.torrent</code> 文件即可，软件默认开启 DHT 和 UPnP，自带精选公共 Tracker 列表</li>
+                        <li><strong>限速控制</strong>：底部状态栏可设置全局限速，避免下载占用过多带宽影响上网</li>
+                    </ul>
+                </section>
+                <!-- 11. 听歌软件 -->
+                <section class="article-section">
+                    <h2 class="section-title">11. 听歌软件推荐：Sollin Player</h2>
+                    <p class="article-text">国内主流音乐平台（QQ音乐、网易云音乐等）广告多、版权分散、会员费用高，推荐使用纯净、免费的聚合听歌软件 Sollin。</p>
+                    <p class="article-text"><strong>推荐理由</strong></p>
+                    <ul class="article-list">
+                        <li><strong>完全免费</strong>：无需付费，无广告干扰</li>
+                        <li><strong>聚合搜索</strong>：可搜索并播放多个平台的音乐资源，无需切换 App</li>
+                        <li><strong>界面简洁</strong>：无社交功能、无直播弹窗，纯音乐播放体验</li>
+                        <li><strong>支持下载</strong>：可下载歌曲到本地，离线收听</li>
+                        <li><strong>持续更新</strong>：开发团队活跃，功能不断优化</li>
+                    </ul>
+                    <p class="article-text"><strong>下载地址</strong>：<a href="https://www.223210.xyz" target="_blank" rel="noopener">https://www.223210.xyz</a></p>
+                    <div class="highlight-box">
+                        <p> 进入网站后选择适合自己系统的版本下载安装即可</p>
+                    </div>
+                    <p class="article-text"><strong>使用提示（遇到无法播放时排查）</strong></p>
+                    <ul class="article-list">
+                        <li><strong>检查软件账号是否登录</strong>：Sollin 需要登录软件自身账号（不是网易云/QQ音乐的账号），未登录状态下可能无法播放或搜索</li>
+                        <li><strong>检查音源配置</strong>：打开软件设置，查看“音源”或“接口”选项是否正确配置。若无音源可选，说明缺少音源文件</li>
+                        <li><strong>手动导入音源</strong>：若设置中没有音源，请在官方 QQ 群内下载音源文件，文件名开头为 <strong>“长青SVIP”</strong>。下载后导入软件即可正常使用</li>
+                    </ul>
+                    <p class="article-text"><strong>官方交流群（获取最新动态、反馈问题、下载音源）</strong></p>
+                    <ul class="article-list">
+                        <li><strong>群 1</strong>：<a href="https://qun.qq.com/universal-share/share?ac=1&authKey=xi3nCp%2Bm5QadCIyMfyrGzDgZomIDHb7t95lJLFj9GnL8xJ5F1b5GpTKCHqmM3%2BL9&busi_data=eyJncm91cENvZGUiOiI4NTM1MzQyOTgiLCJ0b2tlbiI6Ik1GWlFsMkFuUDlrR1dMa1VpUUhUZndnWERqdTQ4MHJZcnhMQnJYMXJ6ZXBGV2ZKVDJMeU8rZTVISUFuRVpMUm8iLCJ1aW4iOiIzOTg4MDQ1MTQ5In0%3D&data=HXCUA8rwbhlFEuLRfP6zUh7MXmbKmxjSW0CvKMvYnyA7K3qSb-lvQwLdykWnhXNlNYkRpwZBl0E4tDDMFhQVeg&svctype=4&tempid=h5_group_info" target="_blank" rel="noopener">点击加入群聊</a></li>
+                        <li><strong>群 2</strong>：<a href="https://qun.qq.com/universal-share/share?ac=1&authKey=uEWPeB6UX5PBFg7XyK98GTdC2FMfIryAvbYfNE0QoMTu6L%2B%2FM%2F6i50%2F4PhDfB4%2BV&busi_data=eyJncm91cENvZGUiOiIxMDc5MDU4MjIyIiwidG9rZW4iOiJsbXordVB3b2U3UmNkbHE0SlJ5STYxQkpYcjlzN0drbGp1SHZETlpFbkRpdXlVMXVIU1J6VjB5emU1OUFDek9XIiwidWluIjoiMzk4ODA0NTE0OSJ9&data=2yGR4pDHn-eKXVzIbq7ete_lcdc0D3Z2WKqni7lIAs7LNrkEyY4kC3EpOrTx1ptNovlw73U69vWCZ09B3S__4w&svctype=4&tempid=h5_group_info" target="_blank" rel="noopener">点击加入群聊</a></li>
+                    </ul>
+                    <div class="highlight-box">
+                        <p> <strong>加群建议</strong>：加入官方群可获取最新版本更新通知、音源文件，遇到使用问题也可在群内反馈求助。</p>
+                    </div>
+                </section>
+                <!-- 12. 搜索软件 -->
+                <section class="article-section">
+                    <h2 class="section-title">12. 搜索软件推荐：Flow Launcher</h2>
+                    <p class="article-text">Windows 自带的搜索不仅速度慢，功能也非常有限。虽然 Everything 在文件搜索上速度极快，但它功能单一，无法满足快速启动应用、搜索书签等更多需求。</p>
+                    <p class="article-text"><strong>Flow Launcher</strong> 则是一个更现代化的选择。它是一款基于 C#/.NET 开发的<strong>免费开源</strong>工具，定位是“Windows 版 Spotlight”或全能启动器，能一站式解决应用启动、文件搜索、网页查询等多种需求。</p>
+                    <p class="article-text"><strong>核心优势</strong></p>
+                    <ul class="article-list">
+                        <li><strong>搜索与启动二合一</strong>：不仅集成了 Everything 的 SDK，实现毫秒级文件搜索，还能通过输入名称快速启动应用，并支持<strong>拼音首字母搜索</strong>（如输入“wx”找微信），对中文用户非常友好</li>
+                        <li><strong>强大的插件系统</strong>：内置计算器、进程管理等工具，并拥有包含 <strong>180 多个插件</strong>的商店，可按需安装翻译、剪贴板历史、清理垃圾等插件</li>
+                        <li><strong>高度可定制</strong>：支持自定义主题、动画、快捷键等，打造个性化体验</li>
+                    </ul>
+                    <p class="article-text"><strong>官网与下载</strong></p>
+                    <ul class="article-list">
+                        <li><strong>官网地址</strong>：<a href="https://flowlauncher.com/" target="_blank" rel="noopener">https://flowlauncher.com/</a></li>
+                        <li><strong>GitHub 项目地址</strong>：<a href="https://github.com/Flow-Launcher/Flow.Launcher" target="_blank" rel="noopener">https://github.com/Flow-Launcher/Flow.Launcher</a></li>
+                    </ul>
+                    <p class="article-text"><strong>安装方式</strong>（任选一种）：</p>
+                    <ul class="article-list">
+                        <li><strong>官方安装包</strong>：访问官网下载 <code>Flow-Launcher-Setup.exe</code> 安装包。也提供免安装的便携版</li>
+                        <li><strong>包管理器</strong>（推荐）：在命令提示符或终端中运行以下命令：
+                            <ul>
+                                <li><code>winget install "Flow Launcher"</code></li>
+                                <li><code>scoop install Flow-Launcher</code></li>
+                                <li><code>choco install Flow-Launcher</code></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <p class="article-text"><strong>基本使用与设置</strong></p>
+                    <ul class="article-list">
+                        <li><strong>唤醒程序</strong>：安装后，默认按下 <kbd>Alt</kbd> + <kbd>Space</kbd> 即可呼出搜索框</li>
+                        <li><strong>常用操作</strong>：
+                            <ul>
+                                <li><strong>打开/运行</strong>：输入内容后，按 <kbd>Enter</kbd> 键</li>
+                                <li><strong>以管理员身份运行</strong>：按 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd></li>
+                                <li><strong>打开文件所在文件夹</strong>：选中结果后，按 <kbd>Ctrl</kbd> + <kbd>Enter</kbd></li>
+                                <li><strong>预览文件</strong>：选中结果后，按 <kbd>F1</kbd> 键</li>
+                            </ul>
+                        </li>
+                        <li><strong>更换搜索引擎</strong>：软件默认使用 Google，可在设置中改为 <strong>必应 (Bing)</strong> 等</li>
+                    </ul>
+                    <div class="highlight-box">
+                        <p> <strong>提示</strong>：Flow Launcher 功能更全面，但资源占用会比 Everything 稍高。如果电脑配置较低，也可考虑继续使用 Everything，或将 Flow Launcher 与 Everything 结合使用。</p>
+                    </div>
+                </section>
+                <!-- 结尾 -->
+                <section class="article-section">
+                    <div class="highlight-box">
+                        <p>🚀 如果做完以上步骤电脑仍然卡顿，且你的电脑还是机械硬盘（HDD）或内存小于 8GB，<strong>最有效的方案是加装固态硬盘（SSD）或增加内存条</strong>。</p>
+                    </div>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/9/index.html">https://156blog.pages.dev/articles/9/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[教程]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[软件测评#5 - Ditto]]></title>
+      <link>https://156blog.pages.dev/articles/8/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/8/index.html</guid>
+      <pubDate>Sun, 16 Aug 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[Ditto剪贴板管理工具详细测评，特点、适用场景、安装方式及真实使用感受]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <section class="article-section">
+                    <!-- 引言 -->
+                    <p class="article-text">
+                        写 Markdown 的时候，剪贴板就是第二条手。
+                    </p>
+                    <p class="article-text">
+                        Win+V 用久了，总觉得差点意思——历史只有 25 条，重启还会清，想找上周复制过的一段配置只能靠滚轮硬翻。于是很多人跟我说：试试 <strong>Ditto</strong>。
+                    </p>
+                    <p class="article-text">
+                        我试了，认真用了一段。下面是它确实能做的事，以及为什么我最后还是把它卸了。
+                    </p>
+                    <!-- 资源提示 -->
+                    <div class="highlight-box" style="margin: 1.2rem 0;">
+                        <p>📌 文件资源提示：本文相关安装包与便携版可在文末资源区获取，或前往博客内下载页查看。</p>
+                    </div>
+                    <!-- Ditto 到底是什么 -->
+                    <h2 class="section-title">Ditto 到底是什么</h2>
+                    <p class="article-text">
+                        Ditto 是 Scott Brogden 维护的一款 Windows 剪贴板增强工具，2000 年代就存在了，开源，用 SQLite 存本地历史。便携版解压仅几 MB，常驻内存极低，默认热键 <code>Ctrl+`</code>（反引号）呼出面板，和 Win+V 互不冲突。
+                    </p>
+                    <p class="article-text">
+                        它有三个主要维护渠道：官网、GitHub Releases 与微软商店。为避免下到修改版，建议只从上述渠道获取。
+                    </p>
+                    <!-- 它把剪贴板从"中转站"变成了"本地库" -->
+                    <h2 class="section-title">它把剪贴板从"中转站"变成了"本地库"</h2>
+                    <p class="article-text">
+                        认真用起来，Ditto 和 Win+V 的差距不在"能存几条"，而在下面几件事：
+                    </p>
+                    <h4 style="font-size:1.1rem; margin:1.2rem 0 0.3rem 0; color:#222;">1. 容量不再是 25 条</h4>
+                    <p class="article-text" style="margin-top:0.2rem;">
+                        你可以设 5000、10000 条，文本、代码、图片、HTML、文件对象都进同一张表，重启不丢，不绑微软账号。
+                    </p>
+                    <h4 style="font-size:1.1rem; margin:1rem 0 0.3rem 0; color:#222;">2. 能搜索</h4>
+                    <p class="article-text" style="margin-top:0.2rem;">
+                        面板顶部一个输入框，敲 <code>json</code>、<code>ssh</code>、<code>2026规划</code>，几个月前复制过的一段代码直接命中。Win+V 只能靠手滚。
+                    </p>
+                    <h4 style="font-size:1.1rem; margin:1rem 0 0.3rem 0; color:#222;">3. 纯文本粘贴</h4>
+                    <p class="article-text" style="margin-top:0.2rem;">
+                        写 MD 最怕从网页拷一段带颜色带缩进的富文本。Ditto 右键条目 → "粘贴为纯文本"，进编辑器就是干净字。
+                    </p>
+                    <h4 style="font-size:1.1rem; margin:1rem 0 0.3rem 0; color:#222;">4. 合并粘贴</h4>
+                    <p class="article-text" style="margin-top:0.2rem;">
+                        历史里选中三条、五条，右键"合并粘贴"，一次性按换行吐出来。搬客服话术、拼接口参数时有用。
+                    </p>
+                    <h4 style="font-size:1.1rem; margin:1rem 0 0.3rem 0; color:#222;">5. 分组 + 钉住 + 局域网同步</h4>
+                    <p class="article-text" style="margin-top:0.2rem;">
+                        常用邮箱、SSH 命令、签名存一个"常用"组，设快捷键直贴；多台电脑走局域网同步，不走云。
+                    </p>
+                    <p class="article-text" style="margin-top:0.8rem;">
+                        这些功能叠在一起，确实把"剪贴板管理器"这个品类能做到的极致给到了。
+                    </p>
+                    <!-- 但我的真实用量是：顶多五条切换 -->
+                    <h2 class="section-title">但我的真实用量是：顶多五条切换</h2>
+                    <p class="article-text">
+                        用了很长一段时间后，我发现自己有个很固定的习惯：
+                    </p>
+                    <ul style="padding-left:1.8rem; margin:0.6rem 0 0.8rem 0; line-height:1.8;">
+                        <li>复制完基本当场粘走，活过半天的条目很少</li>
+                        <li>Win+V 的 25 条上限，我从来没触过顶</li>
+                        <li>三个月前复制过什么，我记不住，也没打算去查</li>
+                        <li>纯文本粘贴？Win+V 右键条目也能做到</li>
+                        <li>合并粘贴？我一年用不到几次</li>
+                        <li>分组、局域网同步？对我单机写字的人来说是闲置能力</li>
+                    </ul>
+                    <p class="article-text">
+                        也就是说，Ditto 最值钱的"历史检索"和"大容量"，恰好压在我用不上的地方。它没不好，是我这五条切换的工作流，喂不饱它。
+                    </p>
+                    <!-- 谁该装，谁可以跳过 -->
+                    <h2 class="section-title">谁该装，谁可以跳过</h2>
+                    <ul style="padding-left:1.8rem; margin:0.6rem 0 0.8rem 0; line-height:1.8;">
+                        <li>
+                            <strong>日拷百段的程序员</strong>、<strong>背话术的运营/客服</strong>、<strong>不绑微软账号的多机办公党</strong>：Ditto 是刚需，装，别犹豫
+                        </li>
+                        <li>
+                            <strong>像我这样顶多五条来回切、偶尔粘纯文本、Win+V 右键够用的人</strong>：Win+V + 钉两条常用地址/签名，已经活得很舒服
+                        </li>
+                    </ul>
+                    <p class="article-text">
+                        工具好不好，不看功能清单长度，看它能不能塞进你的工作流。
+                    </p>
+                    <!-- 结尾 -->
+                    <h2 class="section-title">结尾</h2>
+                    <p class="article-text">
+                        Ditto 把剪贴板能做到的极致都给你了。只是对我这种"五条切换党"来说，这份极致有点太重。
+                    </p>
+                    <p class="article-text">
+                        最后我还是卸掉了它。倒不是它不好，只是我真的用不上。
+                    </p>
+                    <hr style="border:0; border-top:1px solid #e0e0e0; margin:2rem 0;">
+                    <!-- 资源下载 -->
+                    <h3>📎 资源下载</h3>
+                    <ul style="padding-left:1.8rem; margin:0 0 1.2rem 0; line-height:2;">
+                        <li>
+                            <strong>博客内下载（含便携版/安装版）：</strong>
+                            <a href="https://156blog.pages.dev/software.html?id=3" target="_blank">https://156blog.pages.dev/software.html?id=3</a>
+                        </li>
+                        <li>
+                            <strong>官网（SourceForge）：</strong>
+                            <a href="https://ditto-cp.sourceforge.io" target="_blank">https://ditto-cp.sourceforge.io</a>
+                        </li>
+                        <li>
+                            <strong>GitHub Releases：</strong>
+                            <a href="https://github.com/sabrogden/Ditto/releases" target="_blank">https://github.com/sabrogden/Ditto/releases</a>
+                        </li>
+                        <li>
+                            <strong>微软商店：</strong>
+                            <a href="https://apps.microsoft.com/detail/9nblggh3zbjq" target="_blank">https://apps.microsoft.com/detail/9nblggh3zbjq</a>
+                        </li>
+                    </ul>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/8/index.html">https://156blog.pages.dev/articles/8/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[软件测评]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[软件测评#4——TypeDown]]></title>
+      <link>https://156blog.pages.dev/articles/7/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/7/index.html</guid>
+      <pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[TypeDown实时渲染Markdown编辑器详细测评，特点、适用场景、安装方式及真实使用感受]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <section class="article-section">
+                    <p>在众多 Markdown 编辑器中，<strong>TypeDown</strong> 是一个常被低估的选择。它不像 Typora 那样需要付费，也不像 Obsidian 那样依赖复杂的插件生态，而是专注于一件事：<strong>让你快速、专注地写作</strong>。</p>
+                    <p>这篇文章将为你详细拆解 TypeDown 的特点、适用场景、安装方式以及我长期使用下来的真实感受。</p>
+                    <div class="highlight-box">
+                        <p>📌 <strong>文件资源请滑到最底下查看</strong>，下方提供了两种下载方式，请根据你的网络环境选择。</p>
+                    </div>
+                    <h2 class="section-title">一、它解决了什么问题？</h2>
+                    <p>很多人对 Markdown 编辑器的需求其实很简单：<strong>能写、能预览、不卡、不打扰</strong>。但市面上的编辑器往往走向两个极端：</p>
+                    <ul>
+                        <li><strong>过于简陋</strong>：连实时预览都没有，写起来像在记事本里敲纯文本。</li>
+                        <li><strong>过于复杂</strong>：自带知识库、双向链接、同步服务、数据库、插件商店……你只是想写一篇文章，却被引导着搭建一套知识管理系统。</li>
+                    </ul>
+                    <p>TypeDown 恰好卡在中间：它是<strong>实时渲染</strong>的，你写什么，它就直接渲染成最终效果，不需要切换模式、不需要分栏查看。同时它也没有多余的功能堆砌，不打扰你的写作节奏。</p>
+                    <p>它支持 LaTeX、流程图、代码高亮，但这些功能只是“可用”，而不是“必须”。你打开它，写，保存，关闭。没有多余的通知，没有冗余的菜单栏，没有弹窗提醒你升级会员。</p>
+                    <p><strong>它是一支笔，而不是一台多功能打印机。</strong></p>
+                    <h2 class="section-title">二、它有哪些核心特点？</h2>
+                    <h3>2.1 实时渲染</h3>
+                    <p>TypeDown 采用的是<strong>所见即所得（WYSIWYG）</strong>的编辑模式。你输入 Markdown 语法，它直接在编辑区渲染成最终样式——加粗、标题、列表、代码块、表格全部即时显示。你不需要切换到预览模式，写出来的就是最终效果。这对写技术文档、博客草稿、笔记记录等场景来说非常高效——你始终看到的是成文后的样子，不会被源码干扰，也不会在“写”和“看”之间来回切换。</p>
+                    <p>如果你用过 VS Code 写 markdown 的话，想要预览只能点击预览按钮才能查看，小白不易上手，但 TypeDown 就不会有这个问题。</p>
+                    <img src="https://bee-reg-ab.imagency.cn/p/b6ac2f474d39d8d5d7f6f6464de384d7.png" alt="VS Code写markdown界面与TypeDown对比" loading="lazy">
+                    <h3>2.2 启动速度与资源占用</h3>
+                    <p>TypeDown 基于 <strong>WinUI</strong> 框架开发，使用 <strong>Edge WebView2</strong> 进行渲染。这套技术方案带来的实际表现是：</p>
+                    <ul>
+                        <li><strong>冷启动时间</strong>：约 <strong>3 秒</strong>。不算快，尤其是第一次打开时，能明显感知到等待时间。</li>
+                        <li><strong>内存占用</strong>：<strong>约 300MB</strong>。主要来自 WebView2 的渲染进程。对于一款 Markdown 编辑器来说，这个占用偏高。</li>
+                    </ul>
+                    <p>所以它并不算“轻量”或“快速”，只能说“能用”。如果你对启动速度和内存占用比较敏感，TypeDown 可能不会给你带来很好的体验。但如果你愿意接受这些资源消耗来换取实时渲染的便利，它依然是一个可用的选择。</p>
+                    <h3>2.3 本地优先</h3>
+                    <p>所有文件都保存在你的本地磁盘中，不需要登录账号，不需要依赖云服务，也不需要担心服务器宕机导致无法访问。你可以用 OneDrive 或任何你喜欢的同步工具来备份，而不是被强制绑定到某个特定的云生态里。</p>
+                    <h3>2.4 支持技术写作</h3>
+                    <p>TypeDown 原生支持以下内容：</p>
+                    <ul>
+                        <li><strong>LaTeX 公式</strong>：用 <code>$</code> 或 <code>$$</code> 包裹即可渲染数学公式。</li>
+                        <li><strong>Mermaid 流程图</strong>：通过代码块编写流程图、时序图、甘特图等。</li>
+                        <li><strong>代码高亮</strong>：支持多种编程语言的语法高亮。</li>
+                    </ul>
+                    <p>这些功能对于写技术博客、课程笔记或项目文档的人来说非常实用，而且全部在实时渲染中直接呈现。</p>
+                    <h3>2.5 完全免费、开源、无广告</h3>
+                    <p>这是 TypeDown 最吸引我的地方。它不需要付费订阅，没有内购项目，也没有任何广告。你下载它，安装它，使用它，不需要担心“免费版功能受限”或“三天后弹窗提示升级会员”。</p>
+                    <h2 class="section-title">三、它适合谁？</h2>
+                    <p>如果你符合以下任意一条，TypeDown 可能很适合你：</p>
+                    <ul>
+                        <li><strong>写博客的技术作者</strong>：需要实时预览，不想折腾配置。</li>
+                        <li><strong>学生或研究者</strong>：需要插入公式、绘制流程图。</li>
+                        <li><strong>对云端依赖过敏的人</strong>：希望所有数据由自己掌控。</li>
+                        <li><strong>不在意启动速度和内存占用的人</strong>：能接受 3 秒冷启动和 300MB 内存占用，换取实时渲染的便利。</li>
+                    </ul>
+                    <h2 class="section-title">四、TypeDown 的局限</h2>
+                    <ul>
+                        <li><strong>跨平台支持</strong>：它目前只有 Windows 版本，没有 iOS 或 Android 客户端。</li>
+                        <li><strong>云同步</strong>：需要自己解决跨设备同步的问题（比如用 OneDrive、Git 或网盘）。</li>
+                        <li><strong>主题定制</strong>：支持浅色/深色模式切换，但不像 Obsidian 那样支持高度自定义的 CSS 样式。</li>
+                        <li><strong>启动速度与内存占用</strong>：3 秒冷启动 + 300MB 内存占用，对 Markdown 编辑器来说偏高。</li>
+                    </ul>
+                    <p>这些局限是否影响你的使用，取决于你的需求和容忍度。对我来说，它依然是目前最顺手的选择。</p>
+                    <h2 class="section-title">五、我的个人评价</h2>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>维度</th>
+                                <th>评价</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>启动速度</td>
+                                <td>★★☆☆☆（冷启动约3秒，偏慢）</td>
+                            </tr>
+                            <tr>
+                                <td>内存占用</td>
+                                <td>★★☆☆☆（约300MB，偏高）</td>
+                            </tr>
+                            <tr>
+                                <td>实时渲染体验</td>
+                                <td>★★★★★（所见即所得，开箱即用）</td>
+                            </tr>
+                            <tr>
+                                <td>功能丰富度</td>
+                                <td>★★★★☆（功能够用）</td>
+                            </tr>
+                            <tr>
+                                <td>跨平台支持</td>
+                                <td>★☆☆☆☆（仅限 Windows）</td>
+                            </tr>
+                            <tr>
+                                <td>付费门槛</td>
+                                <td>★★★★★（完全免费）</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p>TypeDown 的定位非常清晰：<strong>它是一款让你专注于写作的本地编辑器，而不是一套知识管理解决方案。</strong> 它的优势不在于“快”或“轻”，而在于“打开就能用、写起来不被打扰”的整体体验。如果你不想折腾配置、不想为实时预览装一堆 VS Code 插件，TypeDown 会是一个很好的选择。</p>
+                    <h2 class="section-title">六、文件资源下载</h2>
+                    <h3>下载方式</h3>
+                    <ul>
+                        <li>
+                            <strong>微软商店链接</strong>：<a href="https://apps.microsoft.com/detail/9p8tcw4h2hb4?hl=zh-CN&gl=CN" target="_blank" rel="noopener">点击前往微软商店下载 TypeDown</a><br>
+                            如果你使用的是 Windows 10/11，通过微软商店安装可以自动更新到最新版本，是最推荐的安装方式。
+                        </li>
+                        <li>
+                            <strong>博客内下载</strong>：<a href="https://156blog.pages.dev/software?id=2" target="_blank" rel="noopener">https://156blog.pages.dev/software?id=2</a><br>
+                            如果你的网络环境无法访问微软商店，或你更喜欢使用离线安装包，我已将 TypeDown 的安装包上传到博客内，可从此链接直接下载。
+                        </li>
+                    </ul>
+                    <p>如果你也在寻找一款能让你专注于写作的 Markdown 编辑器，TypeDown 值得一试。至少它已经在我这里服役超过一年了。希望它也能成为你写作工具箱里的一支好笔。💪</p>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/7/index.html">https://156blog.pages.dev/articles/7/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[软件测评]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[每日碳管理（工具）]]></title>
+      <link>https://156blog.pages.dev/articles/6/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/6/index.html</guid>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[每日碳管理工具介绍]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <h2>每日碳管理</h2>
+                <p>这是一个碳足迹计算器，帮助你了解和管理日常活动中的碳排放。您可以在QQ或微信中搜索"每日碳管理"来使用它；您也可以<a href="https://156blog.pages.dev/articles/6/app.html">点此</a>立即体验！</p>
+                <p>Web端数据来源<a href="https://156blog.pages.dev/articles/6/shuju.html">点此查看</a>！</p>
+                <blockquote>注意！Web端与小程序端分离，数据可能不一致。建议您使用Web端！</blockquote>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/6/index.html">https://156blog.pages.dev/articles/6/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[工具]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[几何冲刺游戏规则]]></title>
+      <link>https://156blog.pages.dev/articles/5/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/5/index.html</guid>
+      <pubDate>Sun, 08 Mar 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[几何冲刺游戏规则及本体]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <section class="article-section">
+                    <h1>几何冲刺游戏规则</h1>
+                    <p>此游戏手机、平板、电脑均可游玩<strong>（建议使用电脑游玩！）</strong>，电脑使用键盘，手机平板点击即可！如果碰到障碍物将重新开始！如果要重新调整难度，请刷新页面重新开始！</p>
+                    <p>最后，祝大家玩的开心！<a href="https://156blog.pages.dev/articles/5/game.html">点击</a>此处开始游玩！</p>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/5/index.html">https://156blog.pages.dev/articles/5/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[游戏]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[软件测评#3——Cloudreve]]></title>
+      <link>https://156blog.pages.dev/articles/4/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/4/index.html</guid>
+      <pubDate>Sat, 07 Mar 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[免费开源神器Cloudreve测评]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <section class="article-section">
+                    <div class="highlight-box">
+                        <p>你是否受够了某度网盘的<strong>限速</strong>、<strong>体验差</strong>？那么这期视频教大家如何通过自建云盘摆脱这些烦恼！</p>
+                    </div>
+                    <p>视频传送门：<a href="https://156blog.pages.dev/jump_warning.html?url=https://www.bilibili.com/video/BV1rVfuBrEKA">软件测评#3——Cloudreve</a></p>
+                    <h2 class="section-title">内网穿透教程</h2>
+                    <blockquote>
+                        <p><strong>⚠️ 警告</strong>：使用24×7小时内网穿透方案<strong>容易使你的电脑寿命降低（频繁读写、持续发热）！</strong>请谨慎选择此方案！我们推荐你使用一杯奶茶的钱使用云服务器方案！</p>
+                    </blockquote>
+                    <h3>起步</h3>
+                    <p class="article-text">
+                        首先，打开<a href="https://156blog.pages.dev/jump_warning.html?url=https://cloudreve.org" rel="noopener">官网</a>或<a href="https://156blog.pages.dev/jump_warning.html?url=https://github.com/cloudreve/Cloudreve" rel="noopener">GitHub仓库</a>的最新版本。
+                        下载所属于你的操作系统版本，放在你喜欢的地方。
+                    </p>
+                    <h3>内网穿透方法</h3>
+                    <h4>1. 如何打开Cloudreve？</h4>
+                    <p class="article-text">
+                        在地址栏输入cmd回车，输入“cloudreve”回车，等待一会儿打开浏览器窗口，输入“localhost:5212”（IP+英文冒号+端口号）。注册账号并登录，你就获得了一个管理员账户。
+                    </p>
+                    <h4>2. 如何内网穿透？</h4>
+                    <h5>2.1 如何添加隧道？</h5>
+                    <p class="article-text">
+                        打开<a href="https://156blog.pages.dev/jump_warning.html?url=https://panel.chmlfrp.net" rel="noopener">chmlfrp面板</a>并登录，如果你没实名认证请先实名。然后点击【<strong>隧道管理 - 隧道列表</strong>】，点击<strong>添加隧道</strong>，选择你心仪的节点（如使用chmlfrp免费域名，<strong>请选择境外节点！！！</strong>），点击继续；端口类型选择<strong>HTTP</strong>，内网端口填5212。如果你没有域名，域名类型选择<strong>免费域名</strong>，选择你喜欢的域名后缀，填写你的域名前缀，点击确定即可！
+                    </p>
+                    <h5>2.2 如何进行内网穿透？</h5>
+                    <p class="article-text">
+                        点击<strong>软件下载</strong>，下载到你喜欢的位置，再点击<strong>配置文件</strong>，选择对应的节点及隧道名称，点击<strong>生成</strong>，将左侧的配置文件代码复制到本地的<strong>frpc.ini</strong>即可！
+                    </p>
+                    <h5>2.3 如何启动内网穿透？</h5>
+                    <p class="article-text">
+                        在地址栏输入cmd，输入“frpc”回车，等待至出现“感谢您使用chmlfrp”时代表已经成功！
+                    </p>
+                    <h4>完成</h4>
+                    <p class="article-text">
+                        接下来，访问你的域名，注册第一个账户（<strong>第一个注册的用户会自动获得管理员权限</strong>）并登录，开始你的自定义网盘之旅！
+                    </p>
+                    <h2 class="section-title">云服务器教程</h2>
+                    <blockquote>
+                        <p>这里给的示例是<a href="https://156blog.pages.dev/jump_warning.html?url=https://rainyun.com" rel="noopener">雨云</a>，其他方法见<a href="https://156blog.pages.dev/jump_warning.html?url=https://docs.cloudreve.org" rel="noopener">Cloudreve官方文档</a></p>
+                    </blockquote>
+                    <h3> 准备工作</h3>
+                    <ul>
+                        <li><strong>雨云服务器</strong>：一台已购买的云服务器（建议 2核2G 以上，系统选择 <strong>Debian 12/Ubuntu 22.04</strong>）。<br />若使用国内机房（如宿迁、十堰），需域名已备案；否则建议选择香港或美国机房。</li>
+                        <li><strong>域名（可选）</strong>：如需通过域名访问并启用 HTTPS，请提前将域名解析到服务器公网 IP。</li>
+                    </ul>
+                    <h3>🚀 第一步：部署 Cloudreve V4</h3>
+                    <p class="article-text">根据你的操作习惯，任选以下一种方式完成部署。</p>
+                    <h4>方式一：使用雨云预安装 APP（最简单）</h4>
+                    <ol>
+                        <li><strong>创建服务器时选择预安装 APP</strong>：在雨云控制台购买云服务器时，在“预安装APP”选项中，选择 <strong>【网盘系统】Cloudreve</strong>。</li>
+                        <li><strong>等待创建完成</strong>：服务器启动后，Cloudreve 已自动运行在 <code>http://&lt;你的服务器IP&gt;:5212</code>。</li>
+                        <li><strong>注册成为管理员</strong>：浏览器访问该地址，你将看到 Cloudreve 的注册页面。<strong>第一个注册的账号将自动获得超级管理员权限</strong>，请妥善保管账号密码。
+                            <blockquote>注：预安装版本通常为最新稳定版，默认即采用“首个用户为管理员”策略。</blockquote>
+                        </li>
+                    </ol>
+                    <h4>方式二：通过 Docker 部署（推荐）</h4>
+                    <ol>
+                        <li><strong>连接服务器</strong>（SSH）。</li>
+                        <li><strong>安装 Docker</strong>（如已安装可跳过）：
+                            <pre><code class="language-bash">curl -fsSL https://get.docker.com -o get-docker.sh && sudo sh get-docker.sh
+sudo systemctl start docker && sudo systemctl enable docker</code></pre>
+                        </li>
+                        <li><strong>运行 Cloudreve 容器</strong>（使用官方镜像，默认为 V4 及以上版本）：
+                            <pre><code class="language-bash">docker run -d \
+  --name cloudreve \
+  --restart=always \
+  -p 5212:5212 \
+  -p 6888:6888 \
+  -p 6888:6888/udp \
+  -v ~/cloudreve/data:/cloudreve/data \
+  cloudreve/cloudreve:latest</code></pre>
+                        </li>
+                        <li><strong>完成部署</strong>：容器启动后，访问 <code>http://&lt;你的服务器IP&gt;:5212</code>，即可看到注册页面。<strong>第一个注册的用户成为超级管理员</strong>。</li>
+                    </ol>
+                    <h4>方式三：手动下载二进制文件部署</h4>
+                    <ol>
+                        <li><strong>连接服务器</strong>。</li>
+                        <li><strong>建议固定工作目录</strong>（例如 <code>/opt/cloudreve</code>）：
+                            <pre><code class="language-bash">mkdir -p /opt/cloudreve && cd /opt/cloudreve
+wget https://github.com/cloudreve/Cloudreve/releases/latest/download/cloudreve_linux_amd64.tar.gz
+tar -zxvf cloudreve_*.tar.gz
+chmod +x ./cloudreve</code></pre>
+                        </li>
+                        <li><strong>首次运行</strong>（生成配置文件并初始化数据库）：
+                            <pre><code class="language-bash">./cloudreve</code></pre>
+                            <p class="article-text"><strong>注意</strong>：V4 版本在首次运行<strong>不会</strong>输出默认管理员密码，而是直接进入监听状态。使用 <code>Ctrl + C</code> 停止程序，以便后续配置守护进程。</p>
+                        </li>
+                        <li><strong>配置 systemd 服务</strong>（后台运行）：
+                            <ul>
+                                <li>创建服务文件：<code>vim /usr/lib/systemd/system/cloudreve.service</code></li>
+                                <li>写入以下内容（<strong>使用更健壮的重启策略</strong>）：
+                                    <pre><code>[Unit]
+Description=Cloudreve
+After=network.target
+[Service]
+WorkingDirectory=/opt/cloudreve
+ExecStart=/opt/cloudreve/cloudreve
+Restart=on-abnormal
+RestartSec=5s
+[Install]
+WantedBy=multi-user.target</code></pre>
+                                </li>
+                                <li>启动服务：<code>systemctl daemon-reload && systemctl start cloudreve && systemctl enable cloudreve</code></li>
+                            </ul>
+                        </li>
+                        <li><strong>访问注册</strong>：现在访问 <code>http://&lt;你的服务器IP&gt;:5212</code>，<strong>第一个注册的账号即为管理员</strong>。</li>
+                    </ol>
+                    <blockquote>
+                        <p>💡 <strong>关于数据库</strong>：以上方式默认使用 SQLite，适合小型或个人使用。<strong>对于生产环境或高并发场景，建议配置 MySQL 或 PostgreSQL</strong>，以获得更好的性能和稳定性。具体方法请参考<a href="https://156blog.pages.dev/jump_warning.html?url=https://docs.cloudreve.org/" rel="noopener">官方文档</a>。</p>
+                    </blockquote>
+                    <h3>🔓 第二步：放行端口并访问</h3>
+                    <ul>
+                        <li><strong>放行端口</strong>：在雨云控制台的服务器防火墙/安全组中，放行 <strong>TCP 5212</strong> 端口（Web 访问）。如需离线下载功能，还需放行 <strong>TCP/UDP 6888</strong> 端口。</li>
+                        <li><strong>浏览器访问</strong>：<code>http://&lt;你的服务器IP&gt;:5212</code>，完成第一个账号的注册，该账号即拥有所有管理权限。</li>
+                    </ul>
+                    <h3>🌐 第三步：配置域名访问与 HTTPS（推荐）</h3>
+                    <h4>1. 安装 Nginx（以宝塔面板为例）</h4>
+                    <pre><code class="language-bash">wget -O install.sh https://download.bt.cn/install/install-ubuntu_6.0.sh && bash install.sh ed8484bec</code></pre>
+                    <p class="article-text">安装完成后登录面板，在软件商店安装 Nginx。</p>
+                    <h4>2. 设置反向代理</h4>
+                    <ul>
+                        <li><strong>添加网站</strong>：填写你的域名（如 <code>pan.yourdomain.com</code>），创建纯静态站点。</li>
+                        <li><strong>设置反向代理</strong>：进入网站设置 → 反向代理 → 添加反向代理。
+                            <ul>
+                                <li><strong>目标 URL</strong>：<code>http://127.0.0.1:5212</code></li>
+                                <li><strong>发送域名</strong>：填写你的域名</li>
+                            </ul>
+                        </li>
+                        <li><strong>修改配置文件</strong>：在反向代理配置中，确保包含以下头部信息（可在网站配置文件中添加）：
+                            <pre><code class="language-nginx">location / {
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_redirect off;
+    proxy_pass http://127.0.0.1:5212;
+}</code></pre>
+                        </li>
+                    </ul>
+                    <h4>3. 启用 HTTPS</h4>
+                    <p class="article-text">在网站设置中申请 Let's Encrypt 证书，并开启强制 HTTPS。</p>
+                    <h3> 第四步：进阶配置——挂载雨云对象存储（ROS）</h3>
+                    <p class="article-text">将文件存储到对象存储可节省服务器硬盘空间。</p>
+                    <ol>
+                        <li><strong>创建存储桶</strong>：在雨云控制台购买并创建对象存储桶，开启<strong>公共读取</strong>，记录 <strong>Endpoint</strong>、<strong>AccessKey</strong>、<strong>SecretKey</strong>。</li>
+                        <li><strong>登录 Cloudreve 管理面板</strong>：使用第一步注册的账号登录，点击右上角头像进入管理面板。</li>
+                        <li><strong>添加存储策略</strong>：
+                            <ul>
+                                <li>进入 <strong>存储策略</strong> → <strong>添加存储策略</strong> → 选择 <strong>AWS S3</strong>（兼容雨云 ROS）。</li>
+                                <li>填写：
+                                    <ul>
+                                        <li><strong>Bucket 名称</strong>：你的存储桶名</li>
+                                        <li><strong>Endpoint</strong>：API 端点（如 <code>https://xxx.ros.rainyun.com</code>）</li>
+                                        <li><strong>AccessKey/SecretKey</strong>：雨云密钥</li>
+                                        <li><strong>空间类型</strong>：公共读取</li>
+                                    </ul>
+                                </li>
+                                <li><strong>提示</strong>：部分 S3 兼容存储可能需要填写 <strong>Bucket URL</strong> 字段，格式通常为 <code>https://bucket.endpoint</code>。如果遇到问题，请查阅雨云 ROS 的官方文档。</li>
+                                <li>点击“跳过”完成。</li>
+                            </ul>
+                        </li>
+                        <li><strong>应用策略</strong>：在 <strong>用户组</strong> 中，将默认组的存储策略修改为刚创建的策略，此后新上传文件将直接存入雨云对象存储。</li>
+                    </ol>
+                    <h3> 常见问题</h3>
+                    <h4>Q1：如何确认 Cloudreve 是 V4 版本？</h4>
+                    <ul>
+                        <li>访问 <code>http://&lt;你的IP&gt;:5212</code>，如果页面底部显示 “Powered by Cloudreve v4.x.x” 或注册页面存在，即为 V4 版本。</li>
+                        <li>或者执行 <code>./cloudreve --version</code>（手动部署）查看。</li>
+                    </ul>
+                    <h4>Q2：如果忘记了管理员密码怎么办？</h4>
+                    <ul>
+                        <li>由于管理员就是第一个注册的用户，只能通过数据库重置密码。Cloudreve 提供了命令行工具：
+                            <pre><code class="language-bash"># 进入 Cloudreve 安装目录
+./cloudreve --database-script ResetAdminPassword</code></pre>
+                            执行后根据提示输入新密码，该命令会将第一个管理员（用户ID=1）的密码重置。
+                        </li>
+                    </ul>
+                    <h4>Q3：第一个注册的用户就是管理员，那普通用户如何注册？</h4>
+                    <ul>
+                        <li>管理员可以在后台 <strong>用户管理</strong> 中开启“允许用户注册”，或者通过邀请链接添加用户。普通用户注册后默认为普通会员，需由管理员提升权限。</li>
+                    </ul>
+                    <h3>✅ 完成</h3>
+                    <p class="article-text">
+                        至此，你已经在雨云服务器上基于 Cloudreve V4 搭建了私有网盘。享受文件存储、分享和离线下载的乐趣吧！记得定期备份 <code>/opt/cloudreve/cloudreve.db</code>（SQLite）或导出数据库（MySQL/PostgreSQL），以及配置文件。
+                    </p>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/4/index.html">https://156blog.pages.dev/articles/4/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[软件测评]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[【Creeper的软件测评】第一集：我把三大音乐App"装"进了一个软件！免费开源神器Sollin测评]]></title>
+      <link>https://156blog.pages.dev/articles/3/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/3/index.html</guid>
+      <pubDate>Sat, 17 Jan 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[免费开源神器Sollin测评]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <section class="article-section">
+                    <div class="highlight-box">
+                        <p>🎵 你的听歌是否被版权、付费、界面臃肿充斥着？使用Sollin即可解决！</p>
+                    </div>
+                    <h2 class="section-title">✨ 视频介绍</h2>
+                    <p class="article-text">
+                        视频传送门：<a href="https://156blog.pages.dev/jump_warning.html?url=https://www.bilibili.com/video/BV1wHrSB2E4R/">https://www.bilibili.com/video/BV1wHrSB2E4R/</a>
+                    </p>
+                    <h2 class="section-title">🚀 下载与安装</h2>
+                    <p class="article-text">
+                        首先，进入 <a href="https://156blog.pages.dev/jump_warning.html?url=https://www.223210.xyz">Sollin官网</a>！
+                        如果你使用的是手机版，教程可忽略，请直接跳转到<a href="#highlight-box">下面</a>！
+                    </p>
+                    <p class="article-text">
+                        点击右上角下载按钮，选择对应的操作系统，点击下载。
+                    </p>
+                    <p class="article-text">
+                        安装完成后，打开Sollin，你就可以看见如下界面：
+                    </p>
+                    <p>
+                        <img src="https://156blog.pages.dev/articles/3/1.png" alt="Sollin软件界面" style="max-width:100%; border-radius:8px;">
+                    </p>
+                    <section id="highlight-box" class="content-section">
+                        <article class="markdown-body"><blockquote>
+                            <p>tips:如果您是点击"<a href="#highlight-box">下面</a>"跳转的，那么下面就是跳转内容！</p>
+                        </blockquote>
+                        <div class="highlight-box">
+                            <p> 当然，如果你有能力就尽量支持正版哟！</p>
+                            <p>仅有手机端可以下载歌曲，下载歌曲仅供学习使用，请勿商业使用。<br />下载的歌曲请在24小时内删除！</p>
+                            <p>如果下载出错，很有可能您的今日下载额度已用完或音源错误，需更换音源或次日/赞助后才能下载（赞助仅会增加额度，并不代表可以一直下载！）</p>
+                            <p>如果出现问题，请加Soliin官群（<a href="https://qm.qq.com/q/laSVg0c8ZW">QQ群</a>或<a href="https://t.me/SollinPlayer">telegram群</a>）！</p>
+                        </div>
+                    </section>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/3/index.html">https://156blog.pages.dev/articles/3/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[软件测评]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[关于下载页面项目下线的公告]]></title>
+      <link>https://156blog.pages.dev/articles/2/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/2/index.html</guid>
+      <pubDate>Sun, 07 Dec 2025 12:00:00 +0000</pubDate>
+      <description><![CDATA[关于下载页面项目下线的公告]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <section class="article-section">
+                    <div class="highlight-box">
+                        <p>很抱歉的通知您，下载文件项目已下线，感谢您的使用！</p>
+                    </div>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/2/index.html">https://156blog.pages.dev/articles/2/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[公告]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[欢迎来到我的个人博客！]]></title>
+      <link>https://156blog.pages.dev/articles/1/index.html</link>
+      <guid isPermaLink="true">https://156blog.pages.dev/articles/1/index.html</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:00 +0000</pubDate>
+      <description><![CDATA[这是我的个人博客，在这里我会分享编程学习心得、技术经验和创作内容]]></description>
+      <content:encoded><![CDATA[<div class="article-content">
+                <section class="article-section">
+                    <div class="highlight-box">
+                        <p> 欢迎光临！这里是Creeper苦力怕i的个人博客空间</p>
+                    </div>
+                    <h2 class="section-title">✨ 关于这个博客</h2>
+                    <p class="article-text">
+                        大家好！我是Creeper苦力怕i，一个热爱编程、游戏和科技的自媒体创作者。
+                    </p>
+                    <p class="article-text">
+                        在这里，你将会看到各种文章，
+                        也会分享一些我在创作过程中的心得体会。
+                    </p>
+                    <h2 class="section-title">🚀 博客特色</h2>
+                    <div class="features-grid">
+                        <div class="feature-card">
+                            🖥️
+                            <h3 class="feature-title">技术分享</h3>
+                            <p class="feature-desc">分享实用的编程技巧和开发经验</p>
+                        </div>
+                        <div class="feature-card">
+                            💻
+                            <h3 class="feature-title">游戏娱乐</h3>
+                            <p class="feature-desc">一起玩MC/Steam游戏！</p>
+                        </div>
+                        <div class="feature-card">
+                            🤖
+                            <h3 class="feature-title">AI应用</h3>
+                            <p class="feature-desc">探索人工智能在实际开发中的应用</p>
+                        </div>
+                        <div class="feature-card">
+                            😊
+                            <h3 class="feature-title">更多内容...</h3>
+                            <p class="feature-desc">正在开发中！</p>
+                        </div>
+                    </div>
+                    <h2 class="section-title"> 期待与你交流</h2>
+                    <p class="article-text">
+                        如果你对任何内容有疑问或建议，欢迎通过下面的联系方式与我交流！
+                    </p>
+                    <p class="article-text">
+                        邮箱：<a href="mailto:humingxuan20241@outlook.com">humingxuan20241@outlook.com</a>
+                    </p>
+                    <div class="highlight-box">
+                        <p>📖 更多精彩内容正在准备中，敬请期待！</p>
+                    </div>
+                </section>
+                </div><hr style="border:none;border-top:1px dashed rgba(127,127,127,.4);margin:28px 0 16px;"><div style="font-size:14px;line-height:1.8;color:#5f6368;background:rgba(127,127,127,.07);border:1px dashed rgba(127,127,127,.35);border-radius:12px;padding:12px 16px;margin-top:8px;"><p style="margin:0 0 6px;">⚠ 本文章被 CC BY-NC-ND 4.0 所保护！<br>如需对本文章做任何操作，请遵循该许可证的所有条款，避免侵权带来的不必要的麻烦！</p><p style="margin:0;">U0001F4AC 如需评论等互动功能，请在开启代理后进入博客体验：<a href="https://156blog.pages.dev/articles/1/index.html">https://156blog.pages.dev/articles/1/index.html</a></p></div>]]></content:encoded>
+      <category><![CDATA[公告]]></category>
+      <dc:creator><![CDATA[Creeper156]]></dc:creator>
+    </item>
+  </channel>
+</rss>
