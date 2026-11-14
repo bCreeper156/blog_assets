@@ -14,12 +14,12 @@
     <ttl>60</ttl>
     <atom:link href="https://156blog.pages.dev/tools/rss/feed.xml" rel="self" type="application/rss+xml" />
     <image>
-      <url>https://assets.156blog.de5.net/favicon.ico</url>
+      <url>https://assets.156blog.de5.net/LOGO.png</url>
       <title><![CDATA[156博客]]></title>
       <link>https://156blog.pages.dev/</link>
     </image>
-    <atom:logo>https://assets.156blog.de5.net/favicon.ico</atom:logo>
-    <atom:icon>https://assets.156blog.de5.net/favicon.ico</atom:icon>
+    <atom:logo>https://assets.156blog.de5.net/LOGO.png</atom:logo>
+    <atom:icon>https://assets.156blog.de5.net/LOGO.png</atom:icon>
     <item>
       <title><![CDATA[重要：RSS 订阅源已迁移，请更新订阅地址]]></title>
       <link>https://156blog.pages.dev/articles/14/index.html</link>
